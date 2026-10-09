@@ -22,7 +22,33 @@
    "Courage",
    "Fresh starts"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 4,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 4,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
+  ]
  },
  {
   "slug": "aries-necklace",
@@ -46,6 +72,32 @@
    "Bold moves",
    "Motivation",
    "Clear head"
+  ],
+  "composition": [
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 9,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 8,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 8,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
   ]
  },
  {
@@ -71,7 +123,33 @@
    "Grounding",
    "Patience"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "tigers-eye",
+    "name": "Tiger's Eye",
+    "beads": 8,
+    "family": "Quartz · fibrous",
+    "mohs": "~7",
+    "tag": "Grounded confidence"
+   },
+   {
+    "stone": "green-aventurine",
+    "name": "Green Aventurine",
+    "beads": 4,
+    "family": "Quartzite · fuchsite",
+    "mohs": "~6.5-7",
+    "tag": "Opportunity & luck"
+   },
+   {
+    "stone": "smoky-quartz",
+    "name": "Smoky Quartz",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Gentle grounding"
+   }
+  ]
  },
  {
   "slug": "taurus-necklace",
@@ -95,6 +173,32 @@
    "Slow living",
    "Abundance",
    "Calm focus"
+  ],
+  "composition": [
+   {
+    "stone": "tigers-eye",
+    "name": "Tiger's Eye",
+    "beads": 9,
+    "family": "Quartz · fibrous",
+    "mohs": "~7",
+    "tag": "Grounded confidence"
+   },
+   {
+    "stone": "green-aventurine",
+    "name": "Green Aventurine",
+    "beads": 8,
+    "family": "Quartzite · fuchsite",
+    "mohs": "~6.5-7",
+    "tag": "Opportunity & luck"
+   },
+   {
+    "stone": "smoky-quartz",
+    "name": "Smoky Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Gentle grounding"
+   }
   ]
  },
  {
@@ -120,7 +224,33 @@
    "Curiosity",
    "Light mood"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 8,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   },
+   {
+    "stone": "blue-lace-agate",
+    "name": "Blue Lace Agate",
+    "beads": 4,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Peaceful words"
+   }
+  ]
  },
  {
   "slug": "gemini-necklace",
@@ -144,6 +274,32 @@
    "Conversation",
    "Intuition",
    "Busy days"
+  ],
+  "composition": [
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 9,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   },
+   {
+    "stone": "blue-lace-agate",
+    "name": "Blue Lace Agate",
+    "beads": 8,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Peaceful words"
+   }
   ]
  },
  {
@@ -169,7 +325,33 @@
    "Soft hearts",
    "Tenderness"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 4,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "rhodonite",
+    "name": "Rhodonite",
+    "beads": 4,
+    "family": "Manganese silicate",
+    "mohs": "5.5-6.5",
+    "tag": "Heart healing"
+   }
+  ]
  },
  {
   "slug": "cancer-necklace",
@@ -193,6 +375,32 @@
    "Calm evenings",
    "Family",
    "Kindness"
+  ],
+  "composition": [
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 9,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 8,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "rhodonite",
+    "name": "Rhodonite",
+    "beads": 8,
+    "family": "Manganese silicate",
+    "mohs": "5.5-6.5",
+    "tag": "Heart healing"
+   }
   ]
  },
  {
@@ -218,7 +426,33 @@
    "Joy",
    "Leadership"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "citrine",
+    "name": "Citrine",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Sunny abundance"
+   },
+   {
+    "stone": "tigers-eye",
+    "name": "Tiger's Eye",
+    "beads": 4,
+    "family": "Quartz · fibrous",
+    "mohs": "~7",
+    "tag": "Grounded confidence"
+   },
+   {
+    "stone": "sunstone",
+    "name": "Sunstone",
+    "beads": 4,
+    "family": "Feldspar",
+    "mohs": "6-6.5",
+    "tag": "Vitality & optimism"
+   }
+  ]
  },
  {
   "slug": "leo-necklace",
@@ -242,6 +476,32 @@
    "Big moments",
    "Self-belief",
    "Vitality"
+  ],
+  "composition": [
+   {
+    "stone": "citrine",
+    "name": "Citrine",
+    "beads": 9,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Sunny abundance"
+   },
+   {
+    "stone": "tigers-eye",
+    "name": "Tiger's Eye",
+    "beads": 8,
+    "family": "Quartz · fibrous",
+    "mohs": "~7",
+    "tag": "Grounded confidence"
+   },
+   {
+    "stone": "sunstone",
+    "name": "Sunstone",
+    "beads": 8,
+    "family": "Feldspar",
+    "mohs": "6-6.5",
+    "tag": "Vitality & optimism"
+   }
   ]
  },
  {
@@ -267,7 +527,33 @@
    "Order",
    "Calm planning"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "green-aventurine",
+    "name": "Green Aventurine",
+    "beads": 8,
+    "family": "Quartzite · fuchsite",
+    "mohs": "~6.5-7",
+    "tag": "Opportunity & luck"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   },
+   {
+    "stone": "prehnite",
+    "name": "Prehnite",
+    "beads": 4,
+    "family": "Calcium aluminium silicate",
+    "mohs": "6-6.5",
+    "tag": "Calm preparedness"
+   }
+  ]
  },
  {
   "slug": "virgo-necklace",
@@ -291,6 +577,32 @@
    "Fresh starts",
    "Clarity",
    "Less worry"
+  ],
+  "composition": [
+   {
+    "stone": "green-aventurine",
+    "name": "Green Aventurine",
+    "beads": 9,
+    "family": "Quartzite · fuchsite",
+    "mohs": "~6.5-7",
+    "tag": "Opportunity & luck"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   },
+   {
+    "stone": "prehnite",
+    "name": "Prehnite",
+    "beads": 8,
+    "family": "Calcium aluminium silicate",
+    "mohs": "6-6.5",
+    "tag": "Calm preparedness"
+   }
   ]
  },
  {
@@ -316,7 +628,33 @@
    "Relationships",
    "Calm words"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   },
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 4,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   },
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   }
+  ]
  },
  {
   "slug": "libra-necklace",
@@ -340,6 +678,32 @@
    "Balance",
    "Diplomacy",
    "Self-love"
+  ],
+  "composition": [
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 9,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   },
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 8,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   },
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   }
   ]
  },
  {
@@ -365,7 +729,33 @@
    "Inner strength",
    "Grounding"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "black-tourmaline",
+    "name": "Black Tourmaline",
+    "beads": 8,
+    "family": "Schorl · borosilicate",
+    "mohs": "7-7.5",
+    "tag": "Energy shield"
+   },
+   {
+    "stone": "obsidian",
+    "name": "Obsidian",
+    "beads": 4,
+    "family": "Volcanic glass",
+    "mohs": "5-5.5",
+    "tag": "Truth mirror"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 4,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
+  ]
  },
  {
   "slug": "scorpio-necklace",
@@ -389,6 +779,32 @@
    "Hard times",
    "Boundaries",
    "Passion"
+  ],
+  "composition": [
+   {
+    "stone": "black-tourmaline",
+    "name": "Black Tourmaline",
+    "beads": 9,
+    "family": "Schorl · borosilicate",
+    "mohs": "7-7.5",
+    "tag": "Energy shield"
+   },
+   {
+    "stone": "obsidian",
+    "name": "Obsidian",
+    "beads": 8,
+    "family": "Volcanic glass",
+    "mohs": "5-5.5",
+    "tag": "Truth mirror"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 8,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
   ]
  },
  {
@@ -414,7 +830,33 @@
    "Adventure",
    "Stamina"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 8,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "sodalite",
+    "name": "Sodalite",
+    "beads": 4,
+    "family": "Feldspathoid · silicate",
+    "mohs": "5.5-6",
+    "tag": "Logic & intuition"
+   },
+   {
+    "stone": "red-jasper",
+    "name": "Red Jasper",
+    "beads": 4,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Steady endurance"
+   }
+  ]
  },
  {
   "slug": "sagittarius-necklace",
@@ -438,6 +880,32 @@
    "New horizons",
    "Motivation",
    "Clear goals"
+  ],
+  "composition": [
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 9,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "sodalite",
+    "name": "Sodalite",
+    "beads": 8,
+    "family": "Feldspathoid · silicate",
+    "mohs": "5.5-6",
+    "tag": "Logic & intuition"
+   },
+   {
+    "stone": "red-jasper",
+    "name": "Red Jasper",
+    "beads": 8,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Steady endurance"
+   }
   ]
  },
  {
@@ -463,7 +931,33 @@
    "Long goals",
    "Grounding"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "smoky-quartz",
+    "name": "Smoky Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Gentle grounding"
+   },
+   {
+    "stone": "black-onyx",
+    "name": "Black Onyx",
+    "beads": 4,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Self-mastery"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 4,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
+  ]
  },
  {
   "slug": "capricorn-necklace",
@@ -487,6 +981,32 @@
    "Hard work",
    "Resilience",
    "Composure"
+  ],
+  "composition": [
+   {
+    "stone": "smoky-quartz",
+    "name": "Smoky Quartz",
+    "beads": 9,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Gentle grounding"
+   },
+   {
+    "stone": "black-onyx",
+    "name": "Black Onyx",
+    "beads": 8,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Self-mastery"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 8,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
   ]
  },
  {
@@ -512,7 +1032,33 @@
    "Intuition",
    "Calm mind"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "labradorite",
+    "name": "Labradorite",
+    "beads": 8,
+    "family": "Plagioclase feldspar",
+    "mohs": "6-6.5",
+    "tag": "Intuition & magic"
+   },
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 4,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   }
+  ]
  },
  {
   "slug": "aquarius-necklace",
@@ -536,6 +1082,32 @@
    "New ideas",
    "Inspiration",
    "Protection"
+  ],
+  "composition": [
+   {
+    "stone": "labradorite",
+    "name": "Labradorite",
+    "beads": 9,
+    "family": "Plagioclase feldspar",
+    "mohs": "6-6.5",
+    "tag": "Intuition & magic"
+   },
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 8,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   }
   ]
  },
  {
@@ -561,7 +1133,33 @@
    "Calm evenings",
    "Intuition"
   ],
-  "existing": true
+  "existing": true,
+  "composition": [
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 6,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   },
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 5,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 5,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   }
+  ]
  },
  {
   "slug": "pisces-necklace",
@@ -585,6 +1183,32 @@
    "Meditation",
    "Sensitivity",
    "Rest"
+  ],
+  "composition": [
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 9,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   },
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 8,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   }
   ]
  },
  {
@@ -609,6 +1233,32 @@
    "Calm evenings",
    "Slow breath",
    "Peace"
+  ],
+  "composition": [
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 8,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   },
+   {
+    "stone": "amazonite",
+    "name": "Amazonite",
+    "beads": 4,
+    "family": "Microcline feldspar",
+    "mohs": "6-6.5",
+    "tag": "Courage & truth"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 4,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   }
   ]
  },
  {
@@ -634,6 +1284,40 @@
    "Less worry",
    "Quiet mind",
    "Calm days"
+  ],
+  "composition": [
+   {
+    "stone": "aquamarine",
+    "name": "Aquamarine",
+    "beads": 7,
+    "family": "Beryl · silicate",
+    "mohs": "7.5-8",
+    "tag": "Serene expression"
+   },
+   {
+    "stone": "amazonite",
+    "name": "Amazonite",
+    "beads": 8,
+    "family": "Microcline feldspar",
+    "mohs": "6-6.5",
+    "tag": "Courage & truth"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 8,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "prehnite",
+    "name": "Prehnite",
+    "beads": 2,
+    "family": "Calcium aluminium silicate",
+    "mohs": "6-6.5",
+    "tag": "Calm preparedness"
+   }
   ]
  },
  {
@@ -658,6 +1342,32 @@
    "Interviews",
    "Self-belief",
    "Courage"
+  ],
+  "composition": [
+   {
+    "stone": "sunstone",
+    "name": "Sunstone",
+    "beads": 8,
+    "family": "Feldspar",
+    "mohs": "6-6.5",
+    "tag": "Vitality & optimism"
+   },
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 4,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "tigers-eye",
+    "name": "Tiger's Eye",
+    "beads": 4,
+    "family": "Quartz · fibrous",
+    "mohs": "~7",
+    "tag": "Grounded confidence"
+   }
   ]
  },
  {
@@ -683,6 +1393,40 @@
    "Presentations",
    "Big days",
    "Drive"
+  ],
+  "composition": [
+   {
+    "stone": "sunstone",
+    "name": "Sunstone",
+    "beads": 7,
+    "family": "Feldspar",
+    "mohs": "6-6.5",
+    "tag": "Vitality & optimism"
+   },
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 8,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "tigers-eye",
+    "name": "Tiger's Eye",
+    "beads": 8,
+    "family": "Quartz · fibrous",
+    "mohs": "~7",
+    "tag": "Grounded confidence"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 2,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
   ]
  },
  {
@@ -707,6 +1451,32 @@
    "Exams",
    "Work focus",
    "Clarity"
+  ],
+  "composition": [
+   {
+    "stone": "lapis-lazuli",
+    "name": "Lapis Lazuli",
+    "beads": 8,
+    "family": "Lazurite rock",
+    "mohs": "~5-5.5",
+    "tag": "Wisdom & truth"
+   },
+   {
+    "stone": "sodalite",
+    "name": "Sodalite",
+    "beads": 4,
+    "family": "Feldspathoid · silicate",
+    "mohs": "5.5-6",
+    "tag": "Logic & intuition"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   }
   ]
  },
  {
@@ -732,6 +1502,40 @@
    "Study",
    "Deep work",
    "Decisions"
+  ],
+  "composition": [
+   {
+    "stone": "lapis-lazuli",
+    "name": "Lapis Lazuli",
+    "beads": 7,
+    "family": "Lazurite rock",
+    "mohs": "~5-5.5",
+    "tag": "Wisdom & truth"
+   },
+   {
+    "stone": "sodalite",
+    "name": "Sodalite",
+    "beads": 8,
+    "family": "Feldspathoid · silicate",
+    "mohs": "5.5-6",
+    "tag": "Logic & intuition"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   },
+   {
+    "stone": "fluorite",
+    "name": "Fluorite",
+    "beads": 2,
+    "family": "Fluorite · CaF2",
+    "mohs": "4",
+    "tag": "Orders thoughts"
+   }
   ]
  },
  {
@@ -756,6 +1560,32 @@
    "Self-love",
    "Fresh starts",
    "Romance"
+  ],
+  "composition": [
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   },
+   {
+    "stone": "rhodonite",
+    "name": "Rhodonite",
+    "beads": 4,
+    "family": "Manganese silicate",
+    "mohs": "5.5-6.5",
+    "tag": "Heart healing"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 4,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   }
   ]
  },
  {
@@ -781,6 +1611,40 @@
    "Partnership",
    "Romance",
    "Devotion"
+  ],
+  "composition": [
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 7,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   },
+   {
+    "stone": "rhodonite",
+    "name": "Rhodonite",
+    "beads": 8,
+    "family": "Manganese silicate",
+    "mohs": "5.5-6.5",
+    "tag": "Heart healing"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 8,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "garnet",
+    "name": "Garnet",
+    "beads": 2,
+    "family": "Garnet group · silicate",
+    "mohs": "6.5-7.5",
+    "tag": "Devotion & passion"
+   }
   ]
  },
  {
@@ -805,6 +1669,32 @@
    "Busy places",
    "Grounding",
    "Protection"
+  ],
+  "composition": [
+   {
+    "stone": "black-tourmaline",
+    "name": "Black Tourmaline",
+    "beads": 8,
+    "family": "Schorl · borosilicate",
+    "mohs": "7-7.5",
+    "tag": "Energy shield"
+   },
+   {
+    "stone": "labradorite",
+    "name": "Labradorite",
+    "beads": 4,
+    "family": "Plagioclase feldspar",
+    "mohs": "6-6.5",
+    "tag": "Intuition & magic"
+   },
+   {
+    "stone": "hematite",
+    "name": "Hematite",
+    "beads": 4,
+    "family": "Iron oxide · Fe2O3",
+    "mohs": "5-6.5",
+    "tag": "Grounding anchor"
+   }
   ]
  },
  {
@@ -830,6 +1720,40 @@
    "Commuting",
    "Boundaries",
    "Calm"
+  ],
+  "composition": [
+   {
+    "stone": "black-tourmaline",
+    "name": "Black Tourmaline",
+    "beads": 7,
+    "family": "Schorl · borosilicate",
+    "mohs": "7-7.5",
+    "tag": "Energy shield"
+   },
+   {
+    "stone": "labradorite",
+    "name": "Labradorite",
+    "beads": 8,
+    "family": "Plagioclase feldspar",
+    "mohs": "6-6.5",
+    "tag": "Intuition & magic"
+   },
+   {
+    "stone": "hematite",
+    "name": "Hematite",
+    "beads": 8,
+    "family": "Iron oxide · Fe2O3",
+    "mohs": "5-6.5",
+    "tag": "Grounding anchor"
+   },
+   {
+    "stone": "smoky-quartz",
+    "name": "Smoky Quartz",
+    "beads": 2,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Gentle grounding"
+   }
   ]
  },
  {
@@ -854,6 +1778,32 @@
    "Calm evenings",
    "Better rest",
    "Unwinding"
+  ],
+  "composition": [
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 4,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "lepidolite",
+    "name": "Lepidolite",
+    "beads": 4,
+    "family": "Lithium mica · silicate",
+    "mohs": "2.5-3",
+    "tag": "Softens worry"
+   }
   ]
  },
  {
@@ -879,6 +1829,40 @@
    "Bedtime ritual",
    "Dreams",
    "Peace"
+  ],
+  "composition": [
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 7,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "moonstone",
+    "name": "Moonstone",
+    "beads": 8,
+    "family": "Feldspar · orthoclase",
+    "mohs": "6-6.5",
+    "tag": "Intuition & rhythm"
+   },
+   {
+    "stone": "lepidolite",
+    "name": "Lepidolite",
+    "beads": 8,
+    "family": "Lithium mica · silicate",
+    "mohs": "2.5-3",
+    "tag": "Softens worry"
+   },
+   {
+    "stone": "angelite",
+    "name": "Angelite",
+    "beads": 2,
+    "family": "Anhydrite · CaSO4",
+    "mohs": "~3.5",
+    "tag": "Gentle speech"
+   }
   ]
  },
  {
@@ -903,6 +1887,32 @@
    "Letting go",
    "Busy weeks",
    "Soft heart"
+  ],
+  "composition": [
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   },
+   {
+    "stone": "blue-lace-agate",
+    "name": "Blue Lace Agate",
+    "beads": 4,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Peaceful words"
+   }
   ]
  },
  {
@@ -928,6 +1938,40 @@
    "Overwhelm",
    "Transitions",
    "Calm mind"
+  ],
+  "composition": [
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 7,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "rose-quartz",
+    "name": "Rose Quartz",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Unconditional love"
+   },
+   {
+    "stone": "blue-lace-agate",
+    "name": "Blue Lace Agate",
+    "beads": 8,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Peaceful words"
+   },
+   {
+    "stone": "lepidolite",
+    "name": "Lepidolite",
+    "beads": 2,
+    "family": "Lithium mica · silicate",
+    "mohs": "2.5-3",
+    "tag": "Softens worry"
+   }
   ]
  },
  {
@@ -952,6 +1996,32 @@
    "New ventures",
    "Good luck",
    "Optimism"
+  ],
+  "composition": [
+   {
+    "stone": "green-aventurine",
+    "name": "Green Aventurine",
+    "beads": 8,
+    "family": "Quartzite · fuchsite",
+    "mohs": "~6.5-7",
+    "tag": "Opportunity & luck"
+   },
+   {
+    "stone": "jade",
+    "name": "Jade",
+    "beads": 4,
+    "family": "Nephrite or jadeite",
+    "mohs": "6-7",
+    "tag": "Harmony & fortune"
+   },
+   {
+    "stone": "citrine",
+    "name": "Citrine",
+    "beads": 4,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Sunny abundance"
+   }
   ]
  },
  {
@@ -977,6 +2047,40 @@
    "Business",
    "Ambition",
    "Abundance"
+  ],
+  "composition": [
+   {
+    "stone": "green-aventurine",
+    "name": "Green Aventurine",
+    "beads": 7,
+    "family": "Quartzite · fuchsite",
+    "mohs": "~6.5-7",
+    "tag": "Opportunity & luck"
+   },
+   {
+    "stone": "jade",
+    "name": "Jade",
+    "beads": 8,
+    "family": "Nephrite or jadeite",
+    "mohs": "6-7",
+    "tag": "Harmony & fortune"
+   },
+   {
+    "stone": "citrine",
+    "name": "Citrine",
+    "beads": 8,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Sunny abundance"
+   },
+   {
+    "stone": "pyrite",
+    "name": "Pyrite",
+    "beads": 2,
+    "family": "Iron sulfide · FeS2",
+    "mohs": "6-6.5",
+    "tag": "Willpower"
+   }
   ]
  },
  {
@@ -1002,6 +2106,64 @@
    "Daily balance",
    "Meditation",
    "Alignment"
+  ],
+  "composition": [
+   {
+    "stone": "red-jasper",
+    "name": "Red Jasper",
+    "beads": 2,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Steady endurance"
+   },
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 2,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "citrine",
+    "name": "Citrine",
+    "beads": 2,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Sunny abundance"
+   },
+   {
+    "stone": "malachite",
+    "name": "Malachite",
+    "beads": 2,
+    "family": "Copper carbonate",
+    "mohs": "3.5-4",
+    "tag": "Transformation"
+   },
+   {
+    "stone": "lapis-lazuli",
+    "name": "Lapis Lazuli",
+    "beads": 2,
+    "family": "Lazurite rock",
+    "mohs": "~5-5.5",
+    "tag": "Wisdom & truth"
+   },
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 2,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 2,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   }
   ]
  },
  {
@@ -1027,6 +2189,64 @@
    "Yoga",
    "Meditation",
    "Wholeness"
+  ],
+  "composition": [
+   {
+    "stone": "red-jasper",
+    "name": "Red Jasper",
+    "beads": 3,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Steady endurance"
+   },
+   {
+    "stone": "carnelian",
+    "name": "Carnelian",
+    "beads": 3,
+    "family": "Chalcedony · quartz",
+    "mohs": "6.5-7",
+    "tag": "Creative fire"
+   },
+   {
+    "stone": "citrine",
+    "name": "Citrine",
+    "beads": 3,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Sunny abundance"
+   },
+   {
+    "stone": "malachite",
+    "name": "Malachite",
+    "beads": 3,
+    "family": "Copper carbonate",
+    "mohs": "3.5-4",
+    "tag": "Transformation"
+   },
+   {
+    "stone": "lapis-lazuli",
+    "name": "Lapis Lazuli",
+    "beads": 3,
+    "family": "Lazurite rock",
+    "mohs": "~5-5.5",
+    "tag": "Wisdom & truth"
+   },
+   {
+    "stone": "amethyst",
+    "name": "Amethyst",
+    "beads": 3,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Quiet mind"
+   },
+   {
+    "stone": "clear-quartz",
+    "name": "Clear Quartz",
+    "beads": 3,
+    "family": "Quartz · SiO2",
+    "mohs": "7",
+    "tag": "Amplifies intention"
+   }
   ]
  }
 ]
