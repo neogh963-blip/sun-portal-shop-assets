@@ -1,0 +1,1032 @@
+[
+ {
+  "slug": "aries-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Aries",
+  "name": "Aries Armband",
+  "title": "Spark",
+  "subtitle": "Aries · Spark",
+  "line": "Warm fire for a bold first step.",
+  "stones": [
+   "amethyst",
+   "carnelian",
+   "garnet"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3600,
+  "together": "In crystal tradition, amethyst steadies the bold fire of carnelian and garnet, said to turn courage into calm action.",
+  "goodFor": [
+   "New beginnings",
+   "Courage",
+   "Fresh starts"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "aries-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Aries",
+  "name": "Aries Necklace",
+  "title": "Ember Path",
+  "subtitle": "Aries · Ember Path",
+  "line": "Warm fire for a bold first step.",
+  "stones": [
+   "amethyst",
+   "carnelian",
+   "garnet"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5600,
+  "together": "Carnelian and garnet are said to kindle drive, while amethyst keeps the head clear, a classic pairing for brave first steps.",
+  "goodFor": [
+   "Bold moves",
+   "Motivation",
+   "Clear head"
+  ]
+ },
+ {
+  "slug": "taurus-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Taurus",
+  "name": "Taurus Armband",
+  "title": "Steady Gold",
+  "subtitle": "Taurus · Steady Gold",
+  "line": "Grounded gold for slow, sure growth.",
+  "stones": [
+   "tigers-eye",
+   "green-aventurine",
+   "smoky-quartz"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3400,
+  "together": "Tiger's eye, aventurine and smoky quartz are said to blend grounded confidence with gentle luck for steady, patient growth.",
+  "goodFor": [
+   "Steady growth",
+   "Grounding",
+   "Patience"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "taurus-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Taurus",
+  "name": "Taurus Necklace",
+  "title": "Golden Meadow",
+  "subtitle": "Taurus · Golden Meadow",
+  "line": "Grounded gold for slow, sure growth.",
+  "stones": [
+   "tigers-eye",
+   "green-aventurine",
+   "smoky-quartz"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5200,
+  "together": "In crystal tradition this trio pairs earthy calm with quiet optimism, said to help good things grow at their own pace.",
+  "goodFor": [
+   "Slow living",
+   "Abundance",
+   "Calm focus"
+  ]
+ },
+ {
+  "slug": "gemini-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Gemini",
+  "name": "Gemini Armband",
+  "title": "Two Moons",
+  "subtitle": "Gemini · Two Moons",
+  "line": "Light and clear for a quick, curious mind.",
+  "stones": [
+   "moonstone",
+   "clear-quartz",
+   "blue-lace-agate"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Moonstone, clear quartz and blue lace agate are said to bring clarity and gentle words to a quick, curious mind.",
+  "goodFor": [
+   "Clear talks",
+   "Curiosity",
+   "Light mood"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "gemini-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Gemini",
+  "name": "Gemini Necklace",
+  "title": "Twin Starlight",
+  "subtitle": "Gemini · Twin Starlight",
+  "line": "Light and clear for a quick, curious mind.",
+  "stones": [
+   "moonstone",
+   "clear-quartz",
+   "blue-lace-agate"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5400,
+  "together": "In crystal tradition clear quartz amplifies moonstone's intuition and blue lace agate's calm, said to suit a lively mind.",
+  "goodFor": [
+   "Conversation",
+   "Intuition",
+   "Busy days"
+  ]
+ },
+ {
+  "slug": "cancer-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Cancer",
+  "name": "Cancer Armband",
+  "title": "Tidal Heart",
+  "subtitle": "Cancer · Tidal Heart",
+  "line": "Soft pinks and moonlight for a caring heart.",
+  "stones": [
+   "rose-quartz",
+   "moonstone",
+   "rhodonite"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3600,
+  "together": "Rose quartz, moonstone and rhodonite are said to wrap a caring heart in tenderness, balance and gentle self-respect.",
+  "goodFor": [
+   "Self-love",
+   "Soft hearts",
+   "Healing"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "cancer-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Cancer",
+  "name": "Cancer Necklace",
+  "title": "Moonlit Shore",
+  "subtitle": "Cancer · Moonlit Shore",
+  "line": "Soft pinks and moonlight for a caring heart.",
+  "stones": [
+   "rose-quartz",
+   "moonstone",
+   "rhodonite"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5600,
+  "together": "In crystal tradition this trio of rose and moonlight is said to soothe the emotions and keep a giving heart in balance.",
+  "goodFor": [
+   "Calm evenings",
+   "Family",
+   "Kindness"
+  ]
+ },
+ {
+  "slug": "leo-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Leo",
+  "name": "Leo Armband",
+  "title": "Solar Crown",
+  "subtitle": "Leo · Solar Crown",
+  "line": "Radiant gold for a heart that shines.",
+  "stones": [
+   "citrine",
+   "tigers-eye",
+   "sunstone"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3600,
+  "together": "Citrine, tiger's eye and sunstone are said to unite sunny joy with grounded confidence, a trio for shining warmly.",
+  "goodFor": [
+   "Confidence",
+   "Joy",
+   "Leadership"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "leo-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Leo",
+  "name": "Leo Necklace",
+  "title": "Sunfire Mane",
+  "subtitle": "Leo · Sunfire Mane",
+  "line": "Radiant gold for a heart that shines.",
+  "stones": [
+   "citrine",
+   "tigers-eye",
+   "sunstone"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5600,
+  "together": "In crystal tradition these golden stones are said to stir vitality and self-belief, a radiant pairing for the spotlight.",
+  "goodFor": [
+   "Big moments",
+   "Self-belief",
+   "Vitality"
+  ]
+ },
+ {
+  "slug": "virgo-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Virgo",
+  "name": "Virgo Armband",
+  "title": "Green Garden",
+  "subtitle": "Virgo · Green Garden",
+  "line": "Fresh greens and clarity for quiet order.",
+  "stones": [
+   "green-aventurine",
+   "clear-quartz",
+   "prehnite"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Aventurine, clear quartz and prehnite are said to bring fresh optimism, clear thought and calm preparedness together.",
+  "goodFor": [
+   "Work focus",
+   "Order",
+   "Calm planning"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "virgo-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Virgo",
+  "name": "Virgo Necklace",
+  "title": "Morning Dew",
+  "subtitle": "Virgo · Morning Dew",
+  "line": "Fresh greens and clarity for quiet order.",
+  "stones": [
+   "green-aventurine",
+   "clear-quartz",
+   "prehnite"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5400,
+  "together": "In crystal tradition clear quartz lifts the soft greens of aventurine and prehnite, said to ease worry and clear the mind.",
+  "goodFor": [
+   "Fresh starts",
+   "Clarity",
+   "Less worry"
+  ]
+ },
+ {
+  "slug": "libra-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Libra",
+  "name": "Libra Armband",
+  "title": "Balance",
+  "subtitle": "Libra · Balance",
+  "line": "Clear, blue and pink in gentle balance.",
+  "stones": [
+   "clear-quartz",
+   "aquamarine",
+   "rose-quartz"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3600,
+  "together": "Clear quartz, aquamarine and rose quartz are said to balance clarity, calm and love, a gentle trio for harmony.",
+  "goodFor": [
+   "Harmony",
+   "Relationships",
+   "Calm words"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "libra-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Libra",
+  "name": "Libra Necklace",
+  "title": "Silver Scales",
+  "subtitle": "Libra · Silver Scales",
+  "line": "Clear, blue and pink in gentle balance.",
+  "stones": [
+   "clear-quartz",
+   "aquamarine",
+   "rose-quartz"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5700,
+  "together": "In crystal tradition this pairing is said to soften the heart and steady the voice, keeping both sides of the scale in tune.",
+  "goodFor": [
+   "Balance",
+   "Diplomacy",
+   "Self-love"
+  ]
+ },
+ {
+  "slug": "scorpio-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Scorpio",
+  "name": "Scorpio Armband",
+  "title": "Deep Shield",
+  "subtitle": "Scorpio · Deep Shield",
+  "line": "Deep black and red for inner strength.",
+  "stones": [
+   "black-tourmaline",
+   "obsidian",
+   "garnet"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Black tourmaline and obsidian are said to shield, while garnet warms the heart, a deep trio for quiet inner strength.",
+  "goodFor": [
+   "Protection",
+   "Inner strength",
+   "Grounding"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "scorpio-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Scorpio",
+  "name": "Scorpio Necklace",
+  "title": "Midnight Veil",
+  "subtitle": "Scorpio · Midnight Veil",
+  "line": "Deep black and red for inner strength.",
+  "stones": [
+   "black-tourmaline",
+   "obsidian",
+   "garnet"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5400,
+  "together": "In crystal tradition these dark stones guard your energy as garnet adds devotion, said to suit deep, intense seasons.",
+  "goodFor": [
+   "Hard times",
+   "Boundaries",
+   "Passion"
+  ]
+ },
+ {
+  "slug": "sagittarius-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Sagittarius",
+  "name": "Sagittarius Armband",
+  "title": "Arrow of Fire",
+  "subtitle": "Sagittarius · Arrow of Fire",
+  "line": "Fire and deep blue for the open road.",
+  "stones": [
+   "carnelian",
+   "sodalite",
+   "red-jasper"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3400,
+  "together": "Carnelian and red jasper are said to fuel stamina and drive, while sodalite keeps thoughts clear for the road ahead.",
+  "goodFor": [
+   "Travel",
+   "Adventure",
+   "Stamina"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "sagittarius-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Sagittarius",
+  "name": "Sagittarius Necklace",
+  "title": "Horizon Flame",
+  "subtitle": "Sagittarius · Horizon Flame",
+  "line": "Fire and deep blue for the open road.",
+  "stones": [
+   "carnelian",
+   "sodalite",
+   "red-jasper"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5200,
+  "together": "In crystal tradition fire meets deep blue here: courage and endurance, said to be guided by calm, honest thinking.",
+  "goodFor": [
+   "New horizons",
+   "Motivation",
+   "Clear goals"
+  ]
+ },
+ {
+  "slug": "capricorn-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Capricorn",
+  "name": "Capricorn Armband",
+  "title": "Mountain",
+  "subtitle": "Capricorn · Mountain",
+  "line": "Earth tones for the long climb.",
+  "stones": [
+   "smoky-quartz",
+   "black-onyx",
+   "garnet"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Smoky quartz, black onyx and garnet are said to ground, steady and commit, a trio for patient, long-term goals.",
+  "goodFor": [
+   "Discipline",
+   "Long goals",
+   "Grounding"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "capricorn-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Capricorn",
+  "name": "Capricorn Necklace",
+  "title": "Summit Stone",
+  "subtitle": "Capricorn · Summit Stone",
+  "line": "Earth tones for the long climb.",
+  "stones": [
+   "smoky-quartz",
+   "black-onyx",
+   "garnet"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 5400,
+  "together": "In crystal tradition these earthy stones are said to turn pressure into calm resolve, step by step, all the way up.",
+  "goodFor": [
+   "Hard work",
+   "Resilience",
+   "Composure"
+  ]
+ },
+ {
+  "slug": "aquarius-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Aquarius",
+  "name": "Aquarius Armband",
+  "title": "Northern Light",
+  "subtitle": "Aquarius · Northern Light",
+  "line": "Flashing labradorite with sky-blue calm.",
+  "stones": [
+   "labradorite",
+   "amethyst",
+   "aquamarine"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3800,
+  "together": "Labradorite awakens intuition while amethyst and aquamarine are said to calm the mind, a trio for original thinkers.",
+  "goodFor": [
+   "Creativity",
+   "Intuition",
+   "Calm mind"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "aquarius-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Aquarius",
+  "name": "Aquarius Necklace",
+  "title": "Aurora Stream",
+  "subtitle": "Aquarius · Aurora Stream",
+  "line": "Flashing labradorite with sky-blue calm.",
+  "stones": [
+   "labradorite",
+   "amethyst",
+   "aquamarine"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": true,
+  "priceCents": 6100,
+  "together": "In crystal tradition labradorite's flash meets sky-blue serenity, said to protect bright ideas and keep them flowing.",
+  "goodFor": [
+   "New ideas",
+   "Inspiration",
+   "Protection"
+  ]
+ },
+ {
+  "slug": "pisces-armband",
+  "type": "armband",
+  "group": "zodiac",
+  "key": "Pisces",
+  "name": "Pisces Armband",
+  "title": "Moon Tide",
+  "subtitle": "Pisces · Moon Tide",
+  "line": "Ocean blue and moonlight for dreamers.",
+  "stones": [
+   "aquamarine",
+   "amethyst",
+   "moonstone"
+  ],
+  "pattern": "0120120120120120",
+  "focal": false,
+  "priceCents": 3800,
+  "together": "Aquamarine, amethyst and moonstone are said to bring ocean calm, quiet intuition and gentle dreams together.",
+  "goodFor": [
+   "Dreaming",
+   "Calm evenings",
+   "Intuition"
+  ],
+  "existing": true
+ },
+ {
+  "slug": "pisces-necklace",
+  "type": "necklace",
+  "group": "zodiac",
+  "key": "Pisces",
+  "name": "Pisces Necklace",
+  "title": "Deep Sea Dream",
+  "subtitle": "Pisces · Deep Sea Dream",
+  "line": "Ocean blue and moonlight for dreamers.",
+  "stones": [
+   "aquamarine",
+   "amethyst",
+   "moonstone"
+  ],
+  "pattern": "0210210210210120120120120",
+  "focal": false,
+  "priceCents": 6100,
+  "together": "In crystal tradition this trio of sea and moonlight is said to soothe sensitive hearts and deepen reflection.",
+  "goodFor": [
+   "Meditation",
+   "Sensitivity",
+   "Rest"
+  ]
+ },
+ {
+  "slug": "calm-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Calm",
+  "name": "Still Water Armband",
+  "title": "Still Water",
+  "subtitle": "Calm · Still Water",
+  "line": "Cool blues and moonlight to slow the breath.",
+  "stones": [
+   "aquamarine",
+   "amazonite",
+   "moonstone"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3700,
+  "together": "Aquamarine, amazonite and moonstone are said to soothe like still water, slowing the breath and easing emotional waves.",
+  "goodFor": [
+   "Calm evenings",
+   "Slow breath",
+   "Peace"
+  ]
+ },
+ {
+  "slug": "calm-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Calm",
+  "name": "Still Water Necklace",
+  "title": "Still Water",
+  "subtitle": "Calm · Still Water",
+  "line": "Cool blues and moonlight to slow the breath.",
+  "stones": [
+   "aquamarine",
+   "amazonite",
+   "moonstone",
+   "prehnite"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5900,
+  "together": "In crystal tradition these cool blues meet prehnite's calm preparedness, said to quiet worry about what comes next.",
+  "goodFor": [
+   "Less worry",
+   "Quiet mind",
+   "Calm days"
+  ]
+ },
+ {
+  "slug": "confidence-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Confidence",
+  "name": "Inner Sun Armband",
+  "title": "Inner Sun",
+  "subtitle": "Confidence · Inner Sun",
+  "line": "Warm amber tones for standing tall.",
+  "stones": [
+   "sunstone",
+   "carnelian",
+   "tigers-eye"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Sunstone, carnelian and tiger's eye are said to blend joy, courage and grounded self-belief, warm amber for standing tall.",
+  "goodFor": [
+   "Interviews",
+   "Self-belief",
+   "Courage"
+  ]
+ },
+ {
+  "slug": "confidence-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Confidence",
+  "name": "Inner Sun Necklace",
+  "title": "Inner Sun",
+  "subtitle": "Confidence · Inner Sun",
+  "line": "Warm amber tones for standing tall.",
+  "stones": [
+   "sunstone",
+   "carnelian",
+   "tigers-eye",
+   "garnet"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5500,
+  "together": "In crystal tradition garnet adds steady devotion to these sunny stones, said to keep confidence warm and lasting.",
+  "goodFor": [
+   "Presentations",
+   "Big days",
+   "Drive"
+  ]
+ },
+ {
+  "slug": "focus-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Focus",
+  "name": "Clear Mind Armband",
+  "title": "Clear Mind",
+  "subtitle": "Focus · Clear Mind",
+  "line": "Deep blue and crystal for a sharp, calm head.",
+  "stones": [
+   "lapis-lazuli",
+   "sodalite",
+   "clear-quartz"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Lapis lazuli and sodalite are said to sharpen insight and logic, while clear quartz amplifies a calm, clear head.",
+  "goodFor": [
+   "Exams",
+   "Work focus",
+   "Clarity"
+  ]
+ },
+ {
+  "slug": "focus-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Focus",
+  "name": "Clear Mind Necklace",
+  "title": "Clear Mind",
+  "subtitle": "Focus · Clear Mind",
+  "line": "Deep blue and crystal for a sharp, calm head.",
+  "stones": [
+   "lapis-lazuli",
+   "sodalite",
+   "clear-quartz",
+   "fluorite"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5500,
+  "together": "In crystal tradition fluorite, the study stone, joins lapis, sodalite and quartz, said to bring order to scattered thoughts.",
+  "goodFor": [
+   "Study",
+   "Deep work",
+   "Decisions"
+  ]
+ },
+ {
+  "slug": "love-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Love",
+  "name": "Rose Tide Armband",
+  "title": "Rose Tide",
+  "subtitle": "Love · Rose Tide",
+  "line": "Rose and moonlight with a red heart.",
+  "stones": [
+   "rose-quartz",
+   "rhodonite",
+   "moonstone"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3600,
+  "together": "Rose quartz, rhodonite and moonstone are said to open the heart, mend old hurts and keep love tender and balanced.",
+  "goodFor": [
+   "Self-love",
+   "Healing",
+   "Romance"
+  ]
+ },
+ {
+  "slug": "love-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Love",
+  "name": "Rose Tide Necklace",
+  "title": "Rose Tide",
+  "subtitle": "Love · Rose Tide",
+  "line": "Rose and moonlight with a red heart.",
+  "stones": [
+   "rose-quartz",
+   "rhodonite",
+   "moonstone",
+   "garnet"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5600,
+  "together": "In crystal tradition garnet's warm devotion joins rose and moonlight, said to deepen lasting, committed love.",
+  "goodFor": [
+   "Partnership",
+   "Romance",
+   "Devotion"
+  ]
+ },
+ {
+  "slug": "protection-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Protection",
+  "name": "Night Shield Armband",
+  "title": "Night Shield",
+  "subtitle": "Protection · Night Shield",
+  "line": "Black, flash and silver for a quiet guard.",
+  "stones": [
+   "black-tourmaline",
+   "labradorite",
+   "hematite"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Black tourmaline, labradorite and hematite are said to shield, cloak and anchor your energy, a quiet guard in busy places.",
+  "goodFor": [
+   "Busy places",
+   "Grounding",
+   "Protection"
+  ]
+ },
+ {
+  "slug": "protection-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Protection",
+  "name": "Night Shield Necklace",
+  "title": "Night Shield",
+  "subtitle": "Protection · Night Shield",
+  "line": "Black, flash and silver for a quiet guard.",
+  "stones": [
+   "black-tourmaline",
+   "labradorite",
+   "hematite",
+   "smoky-quartz"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5400,
+  "together": "In crystal tradition smoky quartz joins this guarding trio, said to soak up tension and turn it into steady calm.",
+  "goodFor": [
+   "Commuting",
+   "Boundaries",
+   "Calm"
+  ]
+ },
+ {
+  "slug": "rest-dreams-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Rest & Dreams",
+  "name": "Dream Weaver Armband",
+  "title": "Dream Weaver",
+  "subtitle": "Rest & Dreams · Dream Weaver",
+  "line": "Lavender and moonlight for soft evenings.",
+  "stones": [
+   "amethyst",
+   "moonstone",
+   "lepidolite"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3600,
+  "together": "Amethyst, moonstone and lepidolite are said to quiet the mind and soften worry, a gentle trio for restful evenings.",
+  "goodFor": [
+   "Calm evenings",
+   "Better rest",
+   "Unwinding"
+  ]
+ },
+ {
+  "slug": "rest-dreams-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Rest & Dreams",
+  "name": "Dream Weaver Necklace",
+  "title": "Dream Weaver",
+  "subtitle": "Rest & Dreams · Dream Weaver",
+  "line": "Lavender and moonlight for soft evenings.",
+  "stones": [
+   "amethyst",
+   "moonstone",
+   "lepidolite",
+   "angelite"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5700,
+  "together": "In crystal tradition angelite adds a feeling of gentle company to lavender and moonlight, said to invite peaceful dreams.",
+  "goodFor": [
+   "Bedtime ritual",
+   "Dreams",
+   "Peace"
+  ]
+ },
+ {
+  "slug": "stress-relief-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Stress Relief",
+  "name": "Soft Exhale Armband",
+  "title": "Soft Exhale",
+  "subtitle": "Stress Relief · Soft Exhale",
+  "line": "Lilac, rose and sky for letting go.",
+  "stones": [
+   "amethyst",
+   "rose-quartz",
+   "blue-lace-agate"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3500,
+  "together": "Amethyst, rose quartz and blue lace agate are said to cool nerves, soften the heart and help you let go.",
+  "goodFor": [
+   "Letting go",
+   "Busy weeks",
+   "Soft heart"
+  ]
+ },
+ {
+  "slug": "stress-relief-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Stress Relief",
+  "name": "Soft Exhale Necklace",
+  "title": "Soft Exhale",
+  "subtitle": "Stress Relief · Soft Exhale",
+  "line": "Lilac, rose and sky for letting go.",
+  "stones": [
+   "amethyst",
+   "rose-quartz",
+   "blue-lace-agate",
+   "lepidolite"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5500,
+  "together": "In crystal tradition lepidolite, a beloved calming stone, joins lilac, rose and sky, said to ease an overactive mind.",
+  "goodFor": [
+   "Overwhelm",
+   "Transitions",
+   "Calm mind"
+  ]
+ },
+ {
+  "slug": "wealth-luck-armband",
+  "type": "armband",
+  "group": "feeling",
+  "key": "Wealth & Luck",
+  "name": "Lucky Leaf Armband",
+  "title": "Lucky Leaf",
+  "subtitle": "Wealth & Luck · Lucky Leaf",
+  "line": "Green and gold for growth and good luck.",
+  "stones": [
+   "green-aventurine",
+   "jade",
+   "citrine"
+  ],
+  "pattern": "0102010201020102",
+  "focal": true,
+  "priceCents": 3700,
+  "together": "Aventurine, jade and citrine are said to unite opportunity, harmony and sunny abundance, green and gold for good luck.",
+  "goodFor": [
+   "New ventures",
+   "Good luck",
+   "Optimism"
+  ]
+ },
+ {
+  "slug": "wealth-luck-necklace",
+  "type": "necklace",
+  "group": "feeling",
+  "key": "Wealth & Luck",
+  "name": "Lucky Leaf Necklace",
+  "title": "Lucky Leaf",
+  "subtitle": "Wealth & Luck · Lucky Leaf",
+  "line": "Green and gold for growth and good luck.",
+  "stones": [
+   "green-aventurine",
+   "jade",
+   "citrine",
+   "pyrite"
+  ],
+  "pattern": "2102102102130312012012012",
+  "focal": true,
+  "priceCents": 5900,
+  "together": "In crystal tradition pyrite adds willpower to this lucky trio, said to help good fortune turn into real follow-through.",
+  "goodFor": [
+   "Business",
+   "Ambition",
+   "Abundance"
+  ]
+ },
+ {
+  "slug": "seven-chakra-armband",
+  "type": "armband",
+  "group": "chakra",
+  "key": "Seven Chakra",
+  "name": "Seven Chakra Armband",
+  "subtitle": "One stone for each chakra, Root to Crown.",
+  "stones": [
+   "red-jasper",
+   "carnelian",
+   "citrine",
+   "malachite",
+   "lapis-lazuli",
+   "amethyst",
+   "clear-quartz"
+  ],
+  "priceCents": 3500,
+  "existing": true,
+  "together": "One stone for each chakra, Root to Crown, said in crystal tradition to bring the whole energy body into gentle balance.",
+  "goodFor": [
+   "Daily balance",
+   "Meditation",
+   "Alignment"
+  ]
+ },
+ {
+  "slug": "seven-chakra-necklace",
+  "type": "necklace",
+  "group": "chakra",
+  "key": "Seven Chakra",
+  "name": "Seven Chakra Necklace",
+  "subtitle": "One stone for each chakra, Root to Crown.",
+  "stones": [
+   "red-jasper",
+   "carnelian",
+   "citrine",
+   "malachite",
+   "lapis-lazuli",
+   "amethyst",
+   "clear-quartz"
+  ],
+  "priceCents": 5500,
+  "existing": true,
+  "together": "In crystal tradition these seven stones, red to violet, are said to align body and mind from grounded root to clear crown.",
+  "goodFor": [
+   "Yoga",
+   "Meditation",
+   "Wholeness"
+  ]
+ }
+]
