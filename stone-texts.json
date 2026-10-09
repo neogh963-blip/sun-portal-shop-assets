@@ -1,0 +1,783 @@
+{
+ "version": "2026-10-09",
+ "source": "Sun Portal stone guide (verified shop data)",
+ "count": 43,
+ "gentleWays": "Methods that suit every stone: smoke from incense or herbs in a ventilated room; sound from a singing bowl, bell or chimes; resting overnight in moonlight; resting on a selenite plate or a cluster of clear quartz; breath and visualisation. Only the hard, colour-stable stones may be rinsed in lukewarm water and dried at once.",
+ "noTreatmentNote": "Our stone guide lists no common treatment or imitation for {name}.",
+ "stones": [
+  {
+   "slug": "clear-quartz",
+   "name": "Clear Quartz",
+   "coolFact": "Can hold rainbows, inner \"veils\", or needle inclusions.",
+   "origins": [
+    "Brazil, Arkansas (USA), Madagascar, the Swiss and French Alps, China."
+   ],
+   "mohsHardness": "Mohs 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "My mind is clear and my light shines without effort.",
+   "shopDescription": "Pure light, held in stone. Clear Quartz is the quiet amplifier of the crystal world. Set your intention, hold it close, and let it shine brighter. The perfect first stone, and the perfect partner for every other.",
+   "traditionalMeaning": "In crystal practice clear quartz is seen as an amplifier. It is said to magnify intentions and the energy of the stones around it, and to bring a clear, uncluttered mind. Practitioners use it to \"programme\" an intention and as an all-purpose cleansing stone.",
+   "howToUse": "Hold a point during meditation, tip facing you to draw energy in or away from you to release. Place a cluster in a room as a centrepiece. In a bracelet, use it as a spacer between coloured beads to \"lift\" the whole design.",
+   "cleansingAndCare": "Hard and durable. Rinse in lukewarm water and dry. Safe in moonlight and brief morning sun. Avoid knocks to fine points. Avoid sudden heat changes, which can crack it.",
+   "appearance": "Colourless and glass-clear to milky white. Grows as six-sided points. Can hold rainbows, inner \"veils\", or needle inclusions.",
+   "mineralFamily": "Quartz, silicon dioxide (SiO2), a silicate. Mohs 7.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "selenite",
+   "name": "Selenite",
+   "coolFact": "Mohs 2, soft enough to scratch with a fingernail.",
+   "origins": [
+    "Morocco, Mexico, USA (Utah, Oklahoma), Spain."
+   ],
+   "mohsHardness": "Mohs 2",
+   "beadNote": "Too soft for bracelets",
+   "affirmation": "I release what is heavy and make space for light.",
+   "shopDescription": "A beam of moonlight you can hold. Selenite brings a soft, bright stillness to any room and is our favourite way to refresh your other crystals. Keep it dry, keep it close, and let it glow.",
+   "traditionalMeaning": "In crystal tradition selenite is a cleansing, high-vibration stone, said to clear stagnant energy from a space and from other crystals. It is linked to peace, calm and a sense of being connected to something greater.",
+   "howToUse": "Lay a charging plate on a shelf and rest your other stones and jewellery on it overnight. Sweep a wand slowly through the aura from head to feet. Place a tower near the bed or in a meditation corner.",
+   "cleansingAndCare": "**CAUTION: water-soluble. Never wash it, soak it or leave it in a damp bathroom.** Water and humidity dissolve and pit the surface. It scratches and snaps easily. Dust with a soft dry cloth. Selenite traditionally never needs cleansing itself.",
+   "appearance": "Milky white to translucent with a silky, glowing, fibrous sheen, a little like moonlight running along the stone.",
+   "mineralFamily": "A crystalline variety of gypsum (hydrated calcium sulfate, CaSO4·2H2O), a sulfate. Mohs 2, soft enough to scratch with a fingernail. Note: most \"selenite\" wands and towers sold today are technically satin spar gypsum, the fibrous form. That is fine to sell, but say \"satin spar selenite\" if you want to be precise.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "amethyst",
+   "name": "Amethyst",
+   "coolFact": "The name comes from the ancient Greek amethystos, \"not intoxicated\", from an old belief that it kept the wearer clear-headed.",
+   "origins": [
+    "Brazil and Uruguay (geodes), Zambia (deep purple), Mexico (Veracruz, Guerrero), Madagascar, South Korea."
+   ],
+   "mohsHardness": "Mohs 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am calm, I am clear, and I trust the wisdom within me.",
+   "shopDescription": "The violet guardian of calm. Amethyst softens busy thoughts, deepens meditation and has watched over dreamers for thousands of years. Wear it by day, rest it beside you by night.",
+   "traditionalMeaning": "One of the most loved stones in crystal practice, amethyst is associated with tranquillity, a quiet mind and deeper meditation. The name comes from the ancient Greek amethystos, \"not intoxicated\", from an old belief that it kept the wearer clear-headed. Today it is a classic bedside stone for peaceful rest and a gateway stone for intuition.",
+   "howToUse": "Keep a cluster or tumbled stone on the nightstand or under the pillow. Hold it in meditation or place it on the brow. Wear a bracelet on stressful days.",
+   "cleansingAndCare": "Rinse in lukewarm water and dry. **CAUTION: fades in strong or prolonged sunlight**, so keep it out of windows and never sun-charge. Cleanse it in moonlight instead.",
+   "appearance": "Lavender to deep royal purple, often with colour zoning. Grows as points, clusters and geodes (\"cathedrals\").",
+   "mineralFamily": "Quartz (SiO2). The purple comes from traces of iron plus natural irradiation. Mohs 7.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "moonstone",
+   "name": "Moonstone",
+   "coolFact": "Translucent white, peach, grey or cream with a floating blue-white glow that moves across the surface (adularescence).",
+   "origins": [
+    "Sri Lanka, India, Madagascar, Myanmar, Tanzania."
+   ],
+   "mohsHardness": "Mohs 6-6.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I flow with my cycles and trust what each new phase brings.",
+   "shopDescription": "A piece of the night sky with a light that moves. Moonstone invites you to slow down, listen inward and flow with your own rhythm, like the tides that follow the moon.",
+   "traditionalMeaning": "Long tied to the moon, its cycles and new beginnings. In crystal practice moonstone stands for intuition, emotional balance, gentle receptivity and inner rhythm. It is a traditional travellers' stone and a favourite for night-time reflection.",
+   "howToUse": "Wear it close to the skin, especially around the new and full moon. Place it under the pillow for dreamwork. Hold it while journaling.",
+   "cleansingAndCare": "Quick rinse and dry. No soaking, no ultrasonic or steam cleaners. Avoid hard knocks. Moonlight is its ideal cleanse.",
+   "appearance": "Translucent white, peach, grey or cream with a floating blue-white glow that moves across the surface (adularescence).",
+   "mineralFamily": "Feldspar (mainly orthoclase/adularia layered with albite). Mohs 6-6.5, with cleavage that can split under a sharp knock. Rainbow moonstone is technically a white labradorite (plagioclase feldspar), so disclose this if you sell it.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "fluorite",
+   "name": "Fluorite",
+   "coolFact": "Many pieces glow under UV light.",
+   "origins": [
+    "China, Mexico, England (including the famous \"Blue John\" of Derbyshire), Spain, Argentina, USA (Illinois)."
+   ],
+   "mohsHardness": "Mohs 4",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "My thoughts are ordered, focused and free.",
+   "shopDescription": "Ribbons of violet, sea-green and clear light. Fluorite is the stone for minds that do a lot. Place it on your desk, take a breath, and bring order to the noise.",
+   "traditionalMeaning": "In crystal practice fluorite is the \"study stone\": it is believed to bring order to scattered thoughts, help concentration and support clear decisions. It is also used as a filter for mental clutter and overwhelm.",
+   "howToUse": "Keep a tumbled stone or octahedron on your desk while working or studying. Hold it during decision-making. Place it near screens in a workspace.",
+   "cleansingAndCare": "Wipe with a damp cloth and dry. No soaking, no salt, no hot water (sudden heat can crack it). **CAUTION: some colours fade in sunlight.** Store it separately so harder stones don't scratch it.",
+   "appearance": "Purple, green, blue, clear, yellow, often in stripes of several colours (\"rainbow fluorite\"). Forms cubes and octahedrons, glassy lustre. Many pieces glow under UV light.",
+   "mineralFamily": "Calcium fluoride (CaF2), a halide. Mohs 4, with perfect cleavage in four directions, so it chips easily.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "lapis-lazuli",
+   "name": "Lapis Lazuli",
+   "coolFact": "Prized by ancient Egypt and Mesopotamia and ground into the ultramarine pigment of Renaissance painters.",
+   "origins": [
+    "Afghanistan (the Sar-e-Sang mines, worked for over 6,000 years), Chile, Russia (Lake Baikal region), Pakistan."
+   ],
+   "mohsHardness": "Mohs about 5-5.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I see clearly, I know deeply, and I speak my truth with grace.",
+   "shopDescription": "A night sky set in stone, deep blue scattered with golden stars. Lapis Lazuli has been the stone of royalty and seers for millennia. Wear it when you want to see clearly and speak wisely.",
+   "traditionalMeaning": "Prized by ancient Egypt and Mesopotamia and ground into the ultramarine pigment of Renaissance painters. In crystal practice lapis is the stone of wisdom, truth and inner sight. It is believed to sharpen insight and help you speak what you know.",
+   "howToUse": "Place it on the brow during meditation. Wear it as a pendant near the throat. Keep it with a journal for reflective writing.",
+   "cleansingAndCare": "**CAUTION: keep away from water, salt, perfume and chemicals.** It is porous and the calcite is acid-sensitive. Wipe with a soft dry cloth. Cleanse with smoke, sound or moonlight.",
+   "appearance": "Deep royal to midnight blue, flecked with gold pyrite and veined with white calcite. Looks like a starry night sky.",
+   "mineralFamily": "A rock, not a single mineral: mainly lazurite, with calcite, pyrite and diopside. Mohs about 5-5.5, and slightly porous.",
+   "treatmentHonestyNote": "Dyed lapis and imitations (dyed jasper or howlite, sold as \"Swiss lapis\") are common. Lapis is only called \"natural, undyed\" when the supplier confirms it."
+  },
+  {
+   "slug": "celestite",
+   "name": "Celestite",
+   "coolFact": "Named after the Latin caelestis, \"heavenly\".",
+   "origins": [
+    "Madagascar (most blue clusters on the market), Mexico, USA (Ohio, Michigan), Poland."
+   ],
+   "mohsHardness": "Mohs 3-3.5",
+   "beadNote": "Too soft for bracelets",
+   "affirmation": "I am held by a peace as wide as the sky.",
+   "shopDescription": "A piece of the sky that fell to earth. Celestite's soft blue crystals bring a dreamy, gentle stillness to any room. Treat it tenderly, away from sun and water, and it will glow for years.",
+   "traditionalMeaning": "Named after the Latin caelestis, \"heavenly\". In crystal practice it is a serene, airy stone tied to peace, dreams and a sense of angelic or higher guidance. It is often placed in bedrooms and meditation spaces for a soft, quiet atmosphere.",
+   "howToUse": "Place a cluster in a bedroom, nursery shelf (out of children's reach) or meditation corner. Sit with it during prayer or quiet reflection.",
+   "cleansingAndCare": "**CAUTION: no water, and keep out of sun.** It fades to grey-white in sunlight, crumbles if handled roughly and dulls with water. Dust gently with a soft brush. Cleanse with sound or moonlight only.",
+   "appearance": "Soft sky blue (sometimes white or clear), with glassy pointed crystals, often in geodes and clusters.",
+   "mineralFamily": "Strontium sulfate (SrSO4), a sulfate. Mohs 3-3.5. Brittle, slightly water-soluble.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "angelite",
+   "name": "Angelite",
+   "coolFact": "A modern trade name given to Peruvian blue anhydrite in the late 20th century.",
+   "origins": [
+    "Peru (the main source of the blue material sold as angelite), with anhydrite also found in Mexico, Germany and elsewhere."
+   ],
+   "mohsHardness": "Mohs about 3.5",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I speak with kindness and listen with an open heart.",
+   "shopDescription": "Soft as a summer sky and gentle in the hand. Angelite is our stone for tender words, quiet evenings and the feeling that you are never alone.",
+   "traditionalMeaning": "A modern trade name given to Peruvian blue anhydrite in the late 20th century. In crystal practice it is linked to gentleness, compassionate speech and feeling accompanied and protected. People often use it alongside celestite.",
+   "howToUse": "Hold a palm stone during breathwork. Place it by the bed. Keep one in your pocket before a difficult conversation.",
+   "cleansingAndCare": "**CAUTION: keep away from water.** Over time water turns anhydrite into gypsum, so the surface swells, flakes and loses its colour. Wipe with a dry cloth. Cleanse with sound, smoke or moonlight.",
+   "appearance": "Opaque, soft powder blue to lilac-blue, sometimes with white flecks. Smooth and velvety when polished.",
+   "mineralFamily": "Blue anhydrite, anhydrous calcium sulfate (CaSO4), a sulfate. Mohs about 3.5.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "labradorite",
+   "name": "Labradorite",
+   "coolFact": "A legend of the Inuit says the northern lights were once trapped in the rocks of the Labrador coast.",
+   "origins": [
+    "Canada (Labrador, where it was named in the 1770s), Madagascar, Finland, Norway, Russia."
+   ],
+   "mohsHardness": "Mohs 6-6.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I trust my inner light and let it guide my way through change.",
+   "shopDescription": "The northern lights, caught in stone. Labradorite looks quiet until the light finds it, then it blazes with blue and gold. Wear it as a shield and a reminder of the magic within you.",
+   "traditionalMeaning": "A legend of the Inuit says the northern lights were once trapped in the rocks of the Labrador coast. In crystal practice labradorite is the stone of magic and transformation. It is believed to awaken intuition and to shield your energy, like a cloak, in busy or draining places.",
+   "howToUse": "Wear it in crowded places or around demanding people. Hold it in meditation to explore intuition. Keep a palm stone during times of change.",
+   "cleansingAndCare": "Quick rinse and dry; never soak. Avoid knocks along cleavage planes. Moonlight or smoke for energetic cleansing.",
+   "appearance": "Grey-green to dark grey that flashes peacock blue, green, gold, orange and occasionally violet when tilted in light (labradorescence). The darker, full-spectrum Finnish variety is called spectrolite.",
+   "mineralFamily": "Plagioclase feldspar. Mohs 6-6.5, with cleavage.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "sodalite",
+   "name": "Sodalite",
+   "coolFact": "Unlike lapis it has no gold flecks, and it is often a little more violet-blue.",
+   "origins": [
+    "Brazil, Canada (Ontario, \"Princess Blue\"), Namibia, Greenland, USA."
+   ],
+   "mohsHardness": "Mohs 5.5-6",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "My words are calm, clear and true.",
+   "shopDescription": "Deep ocean blue, laced with white. Sodalite helps busy minds slow down and find the right words. It is our go-to stone for speaking up with calm confidence.",
+   "traditionalMeaning": "In crystal practice sodalite is the stone of logic meeting intuition. It is said to calm racing thoughts, help you put feelings into words and support rational, truthful communication.",
+   "howToUse": "Carry it into meetings, presentations, exams or difficult talks. Keep it at your desk. Wear it near the throat.",
+   "cleansingAndCare": "Quick rinse and dry. Avoid soaking, salt and harsh chemicals. Store it away from harder stones.",
+   "appearance": "Rich royal blue with white veins and patches. Unlike lapis it has no gold flecks, and it is often a little more violet-blue.",
+   "mineralFamily": "A feldspathoid (sodium aluminium silicate with chlorine), a silicate. Mohs 5.5-6.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "turquoise",
+   "name": "Turquoise",
+   "coolFact": "One of humanity's oldest sacred stones, treasured in ancient Egypt, Persia, Tibet and by many Native American peoples.",
+   "origins": [
+    "USA (Arizona, Nevada, New Mexico), Iran (Nishapur, the classic \"Persian\" turquoise), China, Mexico, Egypt (Sinai)."
+   ],
+   "mohsHardness": "Mohs 5-6",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am protected, whole, and free to speak from the heart.",
+   "shopDescription": "The colour of desert sky after rain. Turquoise has protected travellers and blessed friendships across many cultures for thousands of years. A stone for the journey, and for honest hearts.",
+   "traditionalMeaning": "One of humanity's oldest sacred stones, treasured in ancient Egypt, Persia, Tibet and by many Native American peoples. In crystal practice it is a protective, travel and good-fortune stone, linked to wholeness, honest speech and friendship.",
+   "howToUse": "Wear it while travelling. Give it as a friendship or protection gift. Wear it close to the throat.",
+   "cleansingAndCare": "**CAUTION: keep away from water, oils, lotions, perfume and sweat where possible; avoid sun and heat.** It is porous and can change colour (often towards green) and dry out. Put it on last, take it off first. Wipe with a soft dry cloth.",
+   "appearance": "Sky blue to blue-green, opaque, often with a brown or black \"matrix\" web of host rock.",
+   "mineralFamily": "A hydrated copper aluminium phosphate, a phosphate. Mohs 5-6. Porous.",
+   "treatmentHonestyNote": "Most turquoise on the market is stabilised (impregnated with resin). Dyed howlite and magnesite are widely sold as \"turquoise\", and reconstituted material is common. The exact treatment is always named, and dyed howlite is never called turquoise."
+  },
+  {
+   "slug": "blue-kyanite",
+   "name": "Blue Kyanite",
+   "coolFact": "It is unusual because its hardness changes with direction: about Mohs 4.5-5 along the blade and 6.5-7 across it.",
+   "origins": [
+    "Brazil, Nepal, India, Kenya, Switzerland, USA."
+   ],
+   "mohsHardness": "Mohs 4.5-5",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I am aligned in body, mind and voice.",
+   "shopDescription": "Blades of blue light that seem to shimmer from within. Kyanite is the aligner, a single stone for bringing body, mind and voice into one clear line.",
+   "traditionalMeaning": "In crystal practice kyanite is known as an aligning stone, said to bring all the chakras into balance and to open clear, honest expression. There is a popular belief that it doesn't hold negative energy and so rarely needs cleansing.",
+   "howToUse": "Lay a blade along the spine or on the throat during meditation. Hold it for a few breaths before speaking or performing.",
+   "cleansingAndCare": "**CAUTION: fragile and splinters easily.** Avoid soaking, knocks and pressure. Wrap blades separately. **Can lose depth of colour with long sun exposure.** Cleanse with sound or moonlight.",
+   "appearance": "Streaky cornflower to deep blue blades with a pearly, glassy sheen. Grows as flat, bladed crystals.",
+   "mineralFamily": "Aluminium silicate (Al2SiO5), a nesosilicate. It is unusual because its hardness changes with direction: about Mohs 4.5-5 along the blade and 6.5-7 across it. Perfect cleavage makes it brittle.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "amazonite",
+   "name": "Amazonite",
+   "coolFact": "Named after the Amazon river, although it is not found there.",
+   "origins": [
+    "Brazil, Russia, USA (Colorado's Pikes Peak), Madagascar, Peru, Mozambique."
+   ],
+   "mohsHardness": "Mohs 6-6.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I speak my truth with calm courage.",
+   "shopDescription": "Cool mint and sea-foam, like water over pebbles. Amazonite brings a gentle courage. Say what you mean, mean what you say, and stay calm while doing it.",
+   "traditionalMeaning": "Named after the Amazon river, although it is not found there. In crystal practice amazonite is a soothing \"stone of courage and truth\". It is said to calm emotional swings and help you set boundaries kindly, and some traditions link it with luck and new opportunities.",
+   "howToUse": "Wear it during stressful periods. Hold it before setting a boundary or having an honest conversation. Place it on the throat or heart in meditation.",
+   "cleansingAndCare": "Quick rinse and dry; no soaking. Avoid heat and harsh chemicals. **Prolonged sun can pale the colour.**",
+   "appearance": "Soft mint to blue-green, opaque, often with white streaks or a subtle grid pattern.",
+   "mineralFamily": "A green variety of microcline feldspar. Mohs 6-6.5, with cleavage.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "aquamarine",
+   "name": "Aquamarine",
+   "coolFact": "Its name means \"sea water\" in Latin.",
+   "origins": [
+    "Brazil, Madagascar, Nigeria, Pakistan, Mozambique, Zambia."
+   ],
+   "mohsHardness": "Mohs 7.5-8",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "Like the sea, I am calm, deep and free.",
+   "shopDescription": "A drop of ocean, frozen in light. Aquamarine was the sailor's stone for calm waters. Today it is ours for calm words and an easy, open heart.",
+   "traditionalMeaning": "Its name means \"sea water\" in Latin. Sailors carried it as a charm for calm seas and safe passage. In crystal practice it is the stone of serenity and fluid expression. It is said to soothe like the ocean and help you speak gently and clearly.",
+   "howToUse": "Wear it near the throat. Hold it while breathing slowly. Keep it nearby on journeys over water. It is the birthstone for March.",
+   "cleansingAndCare": "Rinse and dry. **Can fade with prolonged strong sunlight**, so cleanse it in moonlight. Durable for daily wear.",
+   "appearance": "Pale sea blue to deeper blue, transparent to milky. Gem crystals are long six-sided prisms.",
+   "mineralFamily": "Blue beryl (a beryllium aluminium silicate), a cyclosilicate. Mohs 7.5-8, the hardest stone in this collection.",
+   "treatmentHonestyNote": "Most aquamarine is heat-treated to remove greenish tones. This treatment is stable and widely accepted."
+  },
+  {
+   "slug": "rose-quartz",
+   "name": "Rose Quartz",
+   "coolFact": "The pink comes from microscopic fibrous inclusions.",
+   "origins": [
+    "Brazil, Madagascar, South Dakota (USA), Mozambique, India, South Africa."
+   ],
+   "mohsHardness": "Mohs 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am worthy of love, and I give love freely.",
+   "shopDescription": "The soft pink of a first sunrise. Rose Quartz is the stone of gentle, unconditional love, starting with yourself. Wear it over your heart and let it remind you to be kind.",
+   "traditionalMeaning": "The best-known love stone in crystal practice. Rose quartz is linked to unconditional love, self-love, tenderness and forgiveness, and it is used to soften a hurting heart and invite kindness, inwardly and outwardly.",
+   "howToUse": "Wear it over the heart. Place it in the bedroom or a relationship corner. Hold it during self-compassion practice. Give it as a gift of love or friendship.",
+   "cleansingAndCare": "Rinse and dry. **CAUTION: fades in sunlight**, so keep it away from windows. Cleanse with moonlight.",
+   "appearance": "Pale blush to deeper rose pink, usually translucent and milky. Rarely forms crystals; most is massive.",
+   "mineralFamily": "Quartz (SiO2). The pink comes from microscopic fibrous inclusions. Mohs 7.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "green-aventurine",
+   "name": "Green Aventurine",
+   "coolFact": "Light to deep green with a fine glittering shimmer (aventurescence) from tiny mica flakes.",
+   "origins": [
+    "India (the main source), Brazil, Chile, Russia, Tanzania."
+   ],
+   "mohsHardness": "Mohs about 6.5-7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am open to luck, joy and new beginnings.",
+   "shopDescription": "Spring green with a hidden sparkle. Green Aventurine is the lucky stone of fresh starts. Slip it in your pocket on the day something new begins.",
+   "traditionalMeaning": "Often called the \"stone of opportunity\" in crystal practice. Green aventurine is associated with luck, prosperity, optimism and a lighter, more open heart, and it is a classic charm for new ventures and fresh starts.",
+   "howToUse": "Carry it in a wallet or pocket. Place it in a workspace or cash drawer. Wear it at interviews, launches and first days.",
+   "cleansingAndCare": "Rinse and dry. Durable. Avoid long sun exposure for dyed material.",
+   "appearance": "Light to deep green with a fine glittering shimmer (aventurescence) from tiny mica flakes.",
+   "mineralFamily": "Quartz-rich rock (quartzite) with green fuchsite mica inclusions. Mohs about 6.5-7.",
+   "treatmentHonestyNote": "Some green \"aventurine\" on the market is dyed quartz or glass."
+  },
+  {
+   "slug": "jade",
+   "name": "Jade",
+   "coolFact": "Revered for millennia in China, Mesoamerica and Māori culture.",
+   "origins": [
+    "Jadeite: Myanmar (the main source), Guatemala, Japan, Russia. Nephrite: Canada (British Columbia), China, New Zealand (pounamu), Russia (Siberia), Australia, USA."
+   ],
+   "mohsHardness": "Mohs 6-6.5 · Mohs 6.5-7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I live in harmony, and good fortune flows to me.",
+   "shopDescription": "Cool, smooth and steady, the stone of emperors and elders. Jade carries an old wisdom: harmony first, and good fortune follows. A lifelong companion.",
+   "traditionalMeaning": "Revered for millennia in China, Mesoamerica and Māori culture. In crystal practice jade is the stone of harmony, good fortune, longevity and calm wisdom. It is believed to bring balance and steady, gentle prosperity.",
+   "howToUse": "Wear it every day as a bangle, bracelet or pendant. Keep it at home or work for harmony. Give it as a blessing gift.",
+   "cleansingAndCare": "Rinse in lukewarm water and dry. Avoid harsh chemicals and heat (treated jade can be damaged).",
+   "appearance": "Most often green, from pale mint to deep \"imperial\" green, but also white, lavender, black and yellow. Smooth, waxy to glassy lustre, cool and heavy in the hand.",
+   "mineralFamily": "\"Jade\" is two different minerals: nephrite (an amphibole, Mohs 6-6.5, extremely tough) and jadeite (a pyroxene, Mohs 6.5-7, rarer and pricier). Both are exceptionally tough because of their interlocking fibrous structure.",
+   "treatmentHonestyNote": "Many stones sold as jade are serpentine, dyed quartz (\"Malaysia jade\"), aventurine or glass. Jadeite may be bleached and polymer-filled (\"B-jade\") or dyed (\"C-jade\"). Jade is named by its mineral (nephrite or jadeite) and its treatment, and only called untreated with lab or supplier proof."
+  },
+  {
+   "slug": "prehnite",
+   "name": "Prehnite",
+   "coolFact": "The first mineral named after a person, Dutch colonel Hendrik von Prehn (18th century).",
+   "origins": [
+    "Australia, South Africa, Mali, China, USA (New Jersey), Scotland."
+   ],
+   "mohsHardness": "Mohs 6-6.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I trust what is unfolding. I am ready.",
+   "shopDescription": "Soft green light, like sun through new leaves. Prehnite is a stone of calm readiness. Breathe out the \"what ifs\" and trust what is unfolding.",
+   "traditionalMeaning": "The first mineral named after a person, Dutch colonel Hendrik von Prehn (18th century). In crystal practice prehnite is known as a stone of unconditional love and calm preparedness. It is said to soothe worry about the future and to connect the heart with intuition.",
+   "howToUse": "Hold it when worrying about the future. Place it on the heart during meditation. Keep it by the bed for a calm wind-down.",
+   "cleansingAndCare": "Quick rinse and dry. **Colour can pale in long sun exposure.** Avoid harsh chemicals.",
+   "appearance": "Translucent lime to apple green or yellowish green, often with a soft bubbly (botryoidal) surface. Frequently contains dark green needles of epidote.",
+   "mineralFamily": "Calcium aluminium silicate, a phyllosilicate. Mohs 6-6.5.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "malachite",
+   "name": "Malachite",
+   "coolFact": "Used for amulets and eye paint in ancient Egypt.",
+   "origins": [
+    "Democratic Republic of Congo (main source today), Zambia, Russia (Ural Mountains, historic), Australia, USA (Arizona), Namibia."
+   ],
+   "mohsHardness": "Mohs 3.5-4",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I welcome change. I let go of what no longer serves me.",
+   "shopDescription": "Swirls of deep green like a forest seen from the stars. Malachite is the stone of transformation, bold, protective and beautiful. Wear it when you are ready to change.",
+   "traditionalMeaning": "Used for amulets and eye paint in ancient Egypt. In crystal practice malachite is a powerful stone of transformation, said to protect, absorb negative energy and help you face and release old emotional patterns.",
+   "howToUse": "Wear it as a pendant or place it on the heart in meditation. Keep a polished piece in the home as a protective object.",
+   "cleansingAndCare": "**CAUTION: keep away from water, salt, acids, heat and household chemicals.** It dulls and can be damaged. **Never make gem water or elixirs with malachite, and never cut, drill or sand it at home; the copper dust is toxic if inhaled or swallowed.** Polished, finished malachite is safe to handle and wear. Wash your hands after handling raw pieces. Cleanse with smoke, sound or a selenite plate.",
+   "appearance": "Vivid emerald to deep forest green in hypnotic swirling bands and \"eyes\". Opaque with a silky polish.",
+   "mineralFamily": "Copper carbonate hydroxide, a carbonate. Mohs 3.5-4, soft and sensitive.",
+   "treatmentHonestyNote": "Reconstituted malachite (powder bonded with resin) and synthetic malachite are common, and are named as such."
+  },
+  {
+   "slug": "citrine",
+   "name": "Citrine",
+   "coolFact": "Nicknamed the \"merchant's stone\" because it was kept in tills for prosperity.",
+   "origins": [
+    "Natural citrine: Brazil, Bolivia (as part of ametrine), Madagascar, DR Congo and Zambia, Russia. Heat-treated citrine: mostly Brazilian and Uruguayan amethyst."
+   ],
+   "mohsHardness": "Mohs 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I shine, I create, and abundance flows to me with ease.",
+   "shopDescription": "Bottled sunshine. Citrine is the golden stone of abundance and bright self-belief, kept by merchants for centuries. Carry it where you work, wear it when you want to shine.",
+   "traditionalMeaning": "Nicknamed the \"merchant's stone\" because it was kept in tills for prosperity. In crystal practice citrine is the sunny stone of abundance, optimism, motivation and self-belief, a little piece of sunshine for your own fire.",
+   "howToUse": "Keep it in a wallet, cash box or workspace. Wear it on days you need drive. Place it in the southeast corner of a home (the wealth area in feng shui).",
+   "cleansingAndCare": "Rinse and dry. **CAUTION: natural citrine can fade in strong sun.** Store away from windows.",
+   "appearance": "Pale lemon to golden yellow and honey. Heat-treated material is often deeper amber-orange with white bases on cluster points.",
+   "mineralFamily": "Quartz (SiO2), coloured by iron. Mohs 7.",
+   "treatmentHonestyNote": "Most citrine sold, especially deep orange clusters and geodes with white bases, is heat-treated amethyst. It is still quartz and still beautiful, and is labelled \"heat-treated citrine\". Natural citrine is paler, rarer and priced higher."
+  },
+  {
+   "slug": "tigers-eye",
+   "name": "Tiger's Eye",
+   "coolFact": "Roman soldiers are said to have carried it for courage.",
+   "origins": [
+    "South Africa (Northern Cape, the classic source), Australia, Namibia, India, Brazil, Myanmar."
+   ],
+   "mohsHardness": "Mohs about 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I act with courage, clarity and calm strength.",
+   "shopDescription": "Gold and amber light that moves like a living eye. Tiger's Eye is the stone of grounded courage. Wear it when you need to step forward, decide and hold your ground.",
+   "traditionalMeaning": "Roman soldiers are said to have carried it for courage. In crystal practice tiger's eye is the stone of grounded confidence, clear decisions and protection, uniting the fire of the solar plexus with steady earth energy.",
+   "howToUse": "Wear it for important decisions, negotiations, sport and competitions. Carry it as a protective pocket stone.",
+   "cleansingAndCare": "Rinse and dry. Durable. Sun-safe for short periods.",
+   "appearance": "Golden yellow to deep brown in silky bands that glow and shift as the stone moves, like a cat's eye (chatoyancy).",
+   "mineralFamily": "Quartz with parallel fibres of altered crocidolite (riebeckite) giving the silky shine. Mohs about 7.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "amber",
+   "name": "Amber",
+   "coolFact": "Warm to the touch, and it floats in salt water.",
+   "origins": [
+    "The Baltic Sea region (Poland, Lithuania, Kaliningrad in Russia), Dominican Republic, Mexico (Chiapas), Myanmar."
+   ],
+   "mohsHardness": "Mohs 2-2.5",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I hold the warmth of ancient sunlight within me.",
+   "shopDescription": "Ancient sunlight, held for millions of years. Warm, light and glowing, Amber is a comforting companion that brings a little sunshine wherever you go.",
+   "traditionalMeaning": "Called \"the gold of the north\" and traded across Europe since prehistory. In crystal practice amber is a warm, sunny stone said to soak up heaviness, uplift the mood and wrap the wearer in a protective, comforting glow.",
+   "howToUse": "Wear it as a necklace against the skin. Hold it when you need comfort.",
+   "cleansingAndCare": "**CAUTION: keep away from water soaks, heat, sun, perfume, hairspray, alcohol and solvents.** It crazes, clouds and darkens. Wipe with a soft damp cloth and dry, and store it separately because it scratches very easily. Cleanse with sound or moonlight.",
+   "appearance": "Honey, golden, cognac and cherry tones, from clear to cloudy (\"butterscotch\"). Warm and very light in the hand. Sometimes holds ancient insects or plant fragments.",
+   "mineralFamily": "Not a mineral but fossilised tree resin (organic gem), mainly millions of years old. Mohs 2-2.5. Warm to the touch, and it floats in salt water.",
+   "treatmentHonestyNote": "Copal (young resin), pressed amber and plastic imitations are common; look for certified Baltic amber. Amber is never sold as teething jewellery for babies: health regulators, including the US FDA, warn of choking and strangulation risks."
+  },
+  {
+   "slug": "sunstone",
+   "name": "Sunstone",
+   "coolFact": "Peach, orange, red-brown or golden, sparkling with glittery coppery flashes (aventurescence) from tiny metal platelets.",
+   "origins": [
+    "India, Norway, USA (Oregon, the official state gem), Tanzania, Madagascar, Russia."
+   ],
+   "mohsHardness": "Mohs 6-6.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I let my light lead the way.",
+   "shopDescription": "A spark of the sun with glitter in its heart. Sunstone is pure joy and quiet leadership. Wear it when you are ready to stand in your own light.",
+   "traditionalMeaning": "Linked to the sun and to joy in many cultures. In crystal practice sunstone is a stone of leadership, vitality and optimism, said to help you claim your own light and shake off self-doubt.",
+   "howToUse": "Wear it on grey days and at moments that ask you to lead. Hold it while visualising goals.",
+   "cleansingAndCare": "Rinse and dry; avoid knocks (cleavage). Sun-safe for short charging.",
+   "appearance": "Peach, orange, red-brown or golden, sparkling with glittery coppery flashes (aventurescence) from tiny metal platelets. Oregon sunstone can be clear, champagne, red or green.",
+   "mineralFamily": "Feldspar (oligoclase or labradorite) containing hematite, goethite or copper platelets. Mohs 6-6.5.",
+   "treatmentHonestyNote": "Goldstone (glass) is sometimes misleadingly sold as \"sunstone\", and andesine \"sunstone\" from some sources has been treated with copper diffusion."
+  },
+  {
+   "slug": "yellow-obsidian",
+   "name": "Yellow Obsidian",
+   "coolFact": "Natural obsidian is volcanic glass in black, brown, grey, green-tinted or rainbow tones; it does not occur in this bright transparent yellow.",
+   "origins": [
+    "Manufactured (mainly China)."
+   ],
+   "mohsHardness": "Mohs about 5-5.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I step forward with bright, steady confidence.",
+   "shopDescription": "A bright drop of golden light, honestly made. Our yellow glass bead (known in the trade as \"yellow obsidian\") is a cheerful sun-coloured accent for confident, creative days.",
+   "traditionalMeaning": "In modern crystal shops \"yellow obsidian\" is used as a solar plexus stone for motivation, optimism and clearing self-doubt. Because it is glass, present it as a colour-and-intention piece rather than a natural crystal.",
+   "howToUse": "Wear it as a cheerful colour accent. Place it in a sunny creative space.",
+   "cleansingAndCare": "Rinse and dry. Glass can chip; avoid knocks.",
+   "appearance": "Bright lemon to honey yellow, glassy and transparent, often with small bubbles or swirl lines.",
+   "mineralFamily": "Man-made glass. Natural obsidian is volcanic glass in black, brown, grey, green-tinted or rainbow tones; it does not occur in this bright transparent yellow. Mohs about 5-5.5.",
+   "treatmentHonestyNote": "Yellow Obsidian is man-made yellow glass (known in the trade as yellow obsidian) and is priced as glass. Natural yellow alternatives are natural citrine, yellow calcite (soft) or yellow jasper."
+  },
+  {
+   "slug": "carnelian",
+   "name": "Carnelian",
+   "coolFact": "Worn in ancient Egypt and Rome and used for seal rings because hot wax didn't stick to it.",
+   "origins": [
+    "India, Brazil, Uruguay, Madagascar, Indonesia, Egypt."
+   ],
+   "mohsHardness": "Mohs 6.5-7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "My creativity flows and my passion moves me forward.",
+   "shopDescription": "Ember-orange and glowing from within. Carnelian is the artist's stone, a spark for passion, courage and creative flow. Wear it when it's time to make something.",
+   "traditionalMeaning": "Worn in ancient Egypt and Rome and used for seal rings because hot wax didn't stick to it. In crystal practice carnelian is the stone of creative fire, motivation and courage, said to spark passion and get stuck energy moving again.",
+   "howToUse": "Keep it in a studio or creative workspace. Wear it when starting a project, performing or exercising. Place it on the lower belly during meditation.",
+   "cleansingAndCare": "Rinse and dry. Durable. Short sunlight is fine.",
+   "appearance": "Translucent orange to red-orange and deep brownish red, glowing like embers when held to light.",
+   "mineralFamily": "Chalcedony (microcrystalline quartz) coloured by iron oxide. Mohs 6.5-7.",
+   "treatmentHonestyNote": "Much \"carnelian\" is agate that has been heat-treated and/or dyed. Natural carnelian shows cloudy, uneven colour; dyed material often shows stripes."
+  },
+  {
+   "slug": "orange-calcite",
+   "name": "Orange Calcite",
+   "coolFact": "Fizzes in acid.",
+   "origins": [
+    "Mexico (Chihuahua, the main source of orange calcite), USA, Brazil, Peru."
+   ],
+   "mohsHardness": "Mohs 3",
+   "beadNote": "Too soft for bracelets",
+   "affirmation": "I welcome joy and play back into my life.",
+   "shopDescription": "A glow like a sunset sorbet. Orange Calcite is a gentle burst of joy for desk, altar or pocket, perfect for when your creative spark needs coaxing back.",
+   "traditionalMeaning": "In crystal practice orange calcite is a cheerful, gentle energiser, said to lift heaviness, encourage playfulness and reignite creativity after a low period.",
+   "howToUse": "Place it on a desk or in a creative corner. Hold it during morning intention setting. Use a palm stone on the lower belly in meditation.",
+   "cleansingAndCare": "**CAUTION: soft and acid-sensitive. Avoid soaking, salt water, vinegar or lemon cleaners and hard knocks.** A quick wipe with a damp cloth is fine. Store it apart from harder stones. Cleanse with sound, smoke or moonlight.",
+   "appearance": "Glowing tangerine to soft peach, translucent with a waxy, almost sorbet-like look. Often banded.",
+   "mineralFamily": "Calcium carbonate (CaCO3), a carbonate. Mohs 3, with perfect cleavage in three directions. Fizzes in acid.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "orange-citrine",
+   "name": "Orange Citrine",
+   "coolFact": "Deep orange, burnt orange and reddish-brown (\"Madeira\" colour), transparent.",
+   "origins": [
+    "Almost all orange citrine on the market is heat-treated amethyst from Brazil and Uruguay. Natural deep-orange citrine is rare."
+   ],
+   "mohsHardness": "Mohs 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am full of warmth, creativity and the joy of being alive.",
+   "shopDescription": "Citrine's sunlight turned to sunset. Deep orange and glowing, this stone carries warmth, passion and creative abundance. Wear it when you want to feel fully alive.",
+   "traditionalMeaning": "In crystal practice the deeper orange tone shifts citrine's sunny abundance energy towards the sacral centre: passion, creative abundance and a warm zest for life.",
+   "howToUse": "As with citrine: wear it on creative days, place it in a studio or keep it in a wallet. Hold it on the lower belly in meditation.",
+   "cleansingAndCare": "Rinse and dry. **CAUTION: can fade in prolonged sun.**",
+   "appearance": "Deep orange, burnt orange and reddish-brown (\"Madeira\" colour), transparent.",
+   "mineralFamily": "Quartz (SiO2). Mohs 7.",
+   "treatmentHonestyNote": "Orange citrine is usually heat-treated (from amethyst), and is only called natural when the supplier documents it."
+  },
+  {
+   "slug": "goldstone",
+   "name": "Goldstone",
+   "coolFact": "Also made in midnight blue (blue goldstone, coloured with cobalt) and green.",
+   "origins": [
+    "Manufactured. The technique goes back to 17th-century Venetian glassmaking. Popular legend says it was discovered by accident; historical records link early production to the Miotti glassmaking family."
+   ],
+   "mohsHardness": "Mohs about 5.5-6",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I turn effort into gold.",
+   "shopDescription": "Glass alchemy from old Venice, filled with a galaxy of copper stars. Goldstone is our honest, made-by-hand sparkle, a reminder that effort turns into gold.",
+   "traditionalMeaning": "Because it is made by people through fire and alchemy, in modern crystal practice goldstone is called a \"stone of ambition\". It is used as a symbol of drive, sparkle, optimism and turning effort into gold.",
+   "howToUse": "As a sparkling accent bead or pocket stone for goals and motivation. Blue goldstone is a favourite \"night sky\" bead and perfect for the galaxy theme.",
+   "cleansingAndCare": "Rinse and dry. Glass can chip.",
+   "appearance": "Reddish-brown (copper) glass packed with glittering copper sparkles. Also made in midnight blue (blue goldstone, coloured with cobalt) and green.",
+   "mineralFamily": "Man-made glass with copper crystals (aventurine glass). Mohs about 5.5-6.",
+   "treatmentHonestyNote": "Goldstone is a man-made glass with copper sparkle, not a natural stone, and it is not sunstone."
+  },
+  {
+   "slug": "pyrite",
+   "name": "Pyrite",
+   "coolFact": "Nicknamed \"fool's gold\".",
+   "origins": [
+    "Spain (the famous natural cubes of Navajún), Peru, Italy (Elba), USA, China, Mexico."
+   ],
+   "mohsHardness": "Mohs 6-6.5",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I am protected, motivated and attracting what I work for.",
+   "shopDescription": "Natural cubes of gold, shaped by the earth itself. Pyrite is the protective stone of ambition. Set it on your desk and get to work.",
+   "traditionalMeaning": "Its name comes from the Greek for \"fire\" because it sparks when struck against steel. In crystal practice pyrite is a protective, abundance and willpower stone, said to shield your energy and support ambition and follow-through.",
+   "howToUse": "Place a cluster or cube on a desk or near the front door. Keep a tumbled stone in a wallet. Wear it as a shiny metallic accent.",
+   "cleansingAndCare": "**CAUTION: keep dry. Water and humidity cause tarnish and can trigger \"pyrite decay\"**, where it crumbles and releases acidic compounds. Wipe with a dry cloth and store with a silica packet. Cleanse with smoke, sound or a selenite plate.",
+   "appearance": "Brassy metallic gold, often in perfect cubes or sparkling clusters. Nicknamed \"fool's gold\".",
+   "mineralFamily": "Iron sulfide (FeS2), a sulfide. Mohs 6-6.5. Brittle and heavy.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "red-jasper",
+   "name": "Red Jasper",
+   "coolFact": "One of the oldest gems worn by humans, used in amulets from ancient Egypt to medieval Europe.",
+   "origins": [
+    "India, Brazil, South Africa, Madagascar, Uruguay, USA."
+   ],
+   "mohsHardness": "Mohs 6.5-7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am steady, strong and rooted in the earth.",
+   "shopDescription": "The colour of red earth and steady heartbeats. Red Jasper is the stone of endurance, for long days, big efforts and staying rooted through it all.",
+   "traditionalMeaning": "One of the oldest gems worn by humans, used in amulets from ancient Egypt to medieval Europe. In crystal practice red jasper is the \"stone of endurance\", said to bring steady strength, stamina and a calm, grounded presence during long, demanding periods.",
+   "howToUse": "Carry it through busy, tiring times. Wear it during physical training. Hold it while walking barefoot or in grounding meditation.",
+   "cleansingAndCare": "Rinse and dry. Very durable. Sun-safe.",
+   "appearance": "Opaque brick red to rust red, sometimes with darker or lighter veins. Smooth and earthy.",
+   "mineralFamily": "Microcrystalline quartz (chalcedony/jasper) coloured by iron oxide (hematite). Mohs 6.5-7.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "bloodstone",
+   "name": "Bloodstone",
+   "coolFact": "Medieval Europe held legends about its red spots, and it was carried by warriors.",
+   "origins": [
+    "India (the main source), Brazil, Australia, China, USA."
+   ],
+   "mohsHardness": "Mohs 6.5-7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I meet every challenge with courage and a steady heart.",
+   "shopDescription": "Deep forest green flecked with red, the stone of warriors and healers. Bloodstone carries courage and steady strength for whatever you are facing.",
+   "traditionalMeaning": "Its older name \"heliotrope\" means \"sun-turning\". Medieval Europe held legends about its red spots, and it was carried by warriors. In crystal practice bloodstone is a stone of courage, vitality and protection, said to steady you through challenges. It is the traditional birthstone for March.",
+   "howToUse": "Carry it during challenging times, competitions or recovery from setbacks. Wear it as a strength talisman.",
+   "cleansingAndCare": "Rinse and dry. Durable.",
+   "appearance": "Dark green, opaque chalcedony spattered with red (sometimes yellow) spots of iron oxide.",
+   "mineralFamily": "Chalcedony/jasper (microcrystalline quartz) with green inclusions and hematite spots. Mohs 6.5-7.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "black-onyx",
+   "name": "Black Onyx",
+   "coolFact": "Used in cameos and seals since antiquity.",
+   "origins": [
+    "Brazil, Uruguay, India, Madagascar, Mexico."
+   ],
+   "mohsHardness": "Mohs 6.5-7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I stand strong, centred and in control of my energy.",
+   "shopDescription": "Deep, polished, unshakeable black. Onyx is the stone of self-mastery, steady focus and quiet protection. The anchor of any design, and of any day.",
+   "traditionalMeaning": "Used in cameos and seals since antiquity. In crystal practice black onyx is a stone of self-mastery, discipline and protection, said to absorb negativity, steady the emotions and help you stay focused and composed under pressure.",
+   "howToUse": "Wear it during demanding work, exams or confrontations. Use it as a black anchor bead in a bracelet to ground brighter stones.",
+   "cleansingAndCare": "Rinse and dry. Avoid harsh chemicals (they can affect the dyed colour). Durable.",
+   "appearance": "Uniform jet black with a high, mirror-like polish (true onyx can be banded black and white).",
+   "mineralFamily": "Chalcedony (microcrystalline quartz), technically banded agate. Mohs 6.5-7.",
+   "treatmentHonestyNote": "Almost all black onyx on the market is agate that has been dyed or treated with a long-established sugar-and-acid process. This is a stable, accepted industry practice."
+  },
+  {
+   "slug": "red-tigers-eye",
+   "name": "Red Tiger's Eye",
+   "coolFact": "Sometimes called \"dragon's eye\" or \"ox eye\".",
+   "origins": [
+    "South Africa (material from the Northern Cape), Namibia, Australia."
+   ],
+   "mohsHardness": "Mohs about 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am energised, grounded and ready to act.",
+   "shopDescription": "Tiger's Eye's golden fire, deepened to red. Bold, energising and grounding, this is the stone for days when you need to rise and move.",
+   "traditionalMeaning": "In crystal practice red tiger's eye blends the grounded confidence of golden tiger's eye with red, root-chakra fire. It is said to energise, boost drive and passion and help overcome sluggishness.",
+   "howToUse": "Wear it for training, competitions and days that need drive. Pair it with golden tiger's eye for balance.",
+   "cleansingAndCare": "Rinse and dry. Durable.",
+   "appearance": "Mahogany to cherry red with silky moving bands of light (chatoyancy). Sometimes called \"dragon's eye\" or \"ox eye\".",
+   "mineralFamily": "Quartz with fibrous inclusions (as Tiger's Eye). Mohs about 7.",
+   "treatmentHonestyNote": "Most red tiger's eye is golden tiger's eye that has been heat-treated to turn it red."
+  },
+  {
+   "slug": "black-tourmaline",
+   "name": "Black Tourmaline",
+   "coolFact": "Opaque jet black with lengthwise grooves (striations) along long prism-shaped crystals.",
+   "origins": [
+    "Brazil, Pakistan, Namibia, Madagascar, Afghanistan, USA."
+   ],
+   "mohsHardness": "Mohs 7-7.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am safe, shielded and grounded.",
+   "shopDescription": "The guardian stone. Black Tourmaline is the first stone many people reach for when they need to feel safe and grounded. Place it at your door, wear it on your wrist, and stand protected.",
+   "traditionalMeaning": "In crystal practice black tourmaline is the best-known protection stone. It is said to absorb and repel negative energy, ground excess nervous energy and act as an energetic shield for the body, home and workspace.",
+   "howToUse": "Place raw pieces at the front door or the four corners of a room. Keep one by electronics or the bed. Wear it as a bracelet in stressful environments. Hold it in grounding meditation.",
+   "cleansingAndCare": "Raw pieces: dust and avoid knocks (they splinter). Polished beads: quick rinse and dry. Cleanse often with smoke, sound or a selenite plate.",
+   "appearance": "Opaque jet black with lengthwise grooves (striations) along long prism-shaped crystals. Glassy to resinous lustre.",
+   "mineralFamily": "Schorl, the iron-rich member of the tourmaline group (a complex borosilicate), a cyclosilicate. Mohs 7-7.5, but brittle across the crystal.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "smoky-quartz",
+   "name": "Smoky Quartz",
+   "coolFact": "The colour comes from natural radiation acting on traces of aluminium in the crystal.",
+   "origins": [
+    "Brazil, the Swiss and French Alps, Scotland (the Cairngorm mountains gave it the old name \"cairngorm\"), Madagascar, USA (Colorado), Ukraine."
+   ],
+   "mohsHardness": "Mohs 7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I let go of what weighs on me and stand calm and grounded.",
+   "shopDescription": "Earth-toned light, like smoke curling through crystal. Smoky Quartz gathers up the heaviness of a long day and brings you back to solid ground, calm, clear and steady.",
+   "traditionalMeaning": "In crystal practice smoky quartz is the gentle grounder. It is said to soak up tension and heavy moods and turn them into steady, practical calm, as clear quartz does with light, but pointed down into the earth. It is a favourite for anyone who feels scattered, overloaded or \"too much in the head\".",
+   "howToUse": "Hold a point during grounding meditation, tip facing down. Keep it at the front door or desk. Wear it on long, busy or emotionally heavy days.",
+   "cleansingAndCare": "Rinse and dry. Durable. **Avoid heat and long strong sunlight**: heat removes the smoky colour, and long sun can lighten it.",
+   "appearance": "Transparent quartz in tones from pale smoky brown and grey to deep chocolate and nearly black (the darkest is called morion). It often forms long glassy points.",
+   "mineralFamily": "Quartz (SiO2). The colour comes from natural radiation acting on traces of aluminium in the crystal. Mohs 7.",
+   "treatmentHonestyNote": "Much very dark or uniformly black \"smoky quartz\" has been made by artificially irradiating clear quartz. This is stable and safe; such stones are called \"irradiated\" unless the supplier confirms natural colour."
+  },
+  {
+   "slug": "obsidian",
+   "name": "Obsidian",
+   "coolFact": "Used since the Stone Age for blades and arrowheads, and by Mesoamerican cultures for polished mirrors used in divination.",
+   "origins": [
+    "Mexico, USA (Oregon, California, Utah, Arizona), Armenia, Iceland, Italy (Lipari), Turkey, Japan."
+   ],
+   "mohsHardness": "Mohs 5-5.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I see myself clearly, and I am protected as I grow.",
+   "shopDescription": "Born of fire, polished to a black mirror. Obsidian is the volcanic guardian, protective, honest and grounding, for the moments when you need to see clearly and stand firm.",
+   "traditionalMeaning": "Used since the Stone Age for blades and arrowheads, and by Mesoamerican cultures for polished mirrors used in divination. In crystal practice black obsidian is a strong protective and \"truth-mirror\" stone, said to block negativity and reflect back what needs to be seen, so that old patterns can be faced and released.",
+   "howToUse": "Wear it in heavy or crowded places. Place a sphere or raw piece near the entrance. In meditation, gaze into a polished piece for reflection. Pair it with a gentle stone (rose quartz, amethyst) if it feels intense.",
+   "cleansingAndCare": "Rinse and dry. **Glass chips and raw edges are sharp**: wrap raw pieces and keep them away from children.",
+   "appearance": "Glossy jet black glass with a mirror shine. Varieties include snowflake obsidian (white \"flowers\" of cristobalite), mahogany (black with red-brown swirls), rainbow and gold-sheen obsidian (colour sheens from tiny inclusions), and Apache tears (small rounded nodules that glow brown when held up to light).",
+   "mineralFamily": "Natural volcanic glass, a mineraloid (lava rich in silica that cooled too fast to crystallise). Mohs 5-5.5. Breaks with curved, razor-sharp (conchoidal) edges.",
+   "treatmentHonestyNote": "Black obsidian is a natural volcanic glass, very different from the man-made \"Yellow Obsidian\". Black glass imitations exist."
+  },
+  {
+   "slug": "hematite",
+   "name": "Hematite",
+   "coolFact": "It always leaves a red-brown streak (hence its name, from the Greek for \"blood\").",
+   "origins": [
+    "Brazil, Australia, USA (Lake Superior region), England (Cumbria kidney ore), Morocco, Canada, South Africa."
+   ],
+   "mohsHardness": "Mohs 5-6.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I am anchored, focused and fully present.",
+   "shopDescription": "Polished iron that shines like a silver mirror. Hematite is weight, anchor and focus. Wear it when your mind is everywhere and your feet need to find the ground.",
+   "traditionalMeaning": "Ground into red ochre for some of humanity's earliest cave paintings. In crystal practice hematite is the anchoring stone, believed to pull scattered energy down into the body, sharpen concentration and form a steady protective boundary.",
+   "howToUse": "Wear it for focus at work, study or exams, or after travel to feel back in your body. Hold a tumbled stone in grounding meditation.",
+   "cleansingAndCare": "**Keep dry**: no soaking or salt water, and moisture can cause rust-coloured staining on natural pieces. Wipe with a dry cloth. It breaks if dropped on hard floors.",
+   "appearance": "Polished: a metallic silver-grey to black mirror shine. Raw: steel-grey crystals, red-brown earthy masses, or rounded \"kidney ore\". It always leaves a red-brown streak (hence its name, from the Greek for \"blood\").",
+   "mineralFamily": "Iron oxide (Fe2O3), an oxide. Mohs 5-6.5. Dense and heavy, and brittle when dropped. Natural hematite is only weakly magnetic.",
+   "treatmentHonestyNote": "Most shiny \"hematite\" beads are hematine (man-made, sintered iron oxide or similar material), and strongly magnetic beads are always man-made; these are named \"hematine (synthetic)\" or \"magnetic hematine\". No health effects are claimed for magnets. Magnetic jewellery should not be worn by anyone with a pacemaker or other implanted medical device."
+  },
+  {
+   "slug": "lepidolite",
+   "name": "Lepidolite",
+   "coolFact": "A lithium-rich mica (potassium lithium aluminium silicate), a phyllosilicate.",
+   "origins": [
+    "Brazil, Madagascar, USA (California, Maine), Zimbabwe, Russia, Canada."
+   ],
+   "mohsHardness": "Mohs 2.5-3",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I breathe slowly. I am safe in this moment.",
+   "shopDescription": "Lavender clouds with a soft sparkle. Lepidolite is our quietest stone, the one to reach for when the mind won't settle. Keep it close at night and breathe.",
+   "traditionalMeaning": "In crystal practice lepidolite is known as a \"stone of transition\". It is one of the most loved calming stones, said to soften worry, quieten an overactive mind and support restful sleep and emotional steadiness during big life changes.",
+   "howToUse": "Keep it by the bed or under the pillow. Hold it during breathing exercises when you feel anxious. Carry it through times of change.",
+   "cleansingAndCare": "**No soaking or salt water**; mica layers can lift. A quick wipe with a damp cloth is fine. Soft, so store it separately. **Contains lithium: perfectly fine to wear and handle, but never put it in drinking water or make elixirs with it.**",
+   "appearance": "Lilac, lavender, pink-violet to grey-purple, often with tiny sparkling mica flakes. Bead and tumbled material is usually a rock of lepidolite mixed with quartz, sometimes with pink tourmaline.",
+   "mineralFamily": "A lithium-rich mica (potassium lithium aluminium silicate), a phyllosilicate. Pure lepidolite is Mohs 2.5-3; quartz-rich bead material is a little harder (about 3-4). It flakes along its mica layers.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "blue-lace-agate",
+   "name": "Blue Lace Agate",
+   "coolFact": "Pale sky blue banded with fine white and darker blue lines, like lace or ripples on water.",
+   "origins": [
+    "Namibia (the classic and finest source; the famous mine has largely stopped producing, making top material rarer), South Africa, Malawi, Brazil, India, Turkey."
+   ],
+   "mohsHardness": "Mohs 6.5-7",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "Peace flows through me and into my words.",
+   "shopDescription": "Ripples of pale blue and white, like a calm sky reflected on water. Blue Lace Agate cools a racing heart and softens the words that come out.",
+   "traditionalMeaning": "In crystal practice blue lace agate is a soft, cooling stone for the throat, said to calm nervous energy, ease tension in conversations and help gentle, peaceful words come more easily.",
+   "howToUse": "Wear it at the throat before talks, interviews or difficult conversations. Hold it during slow breathing. Give it to someone who worries.",
+   "cleansingAndCare": "Rinse and dry. Durable. Keep dyed material out of strong sun.",
+   "appearance": "Pale sky blue banded with fine white and darker blue lines, like lace or ripples on water. Translucent to opaque.",
+   "mineralFamily": "Banded chalcedony (microcrystalline quartz). Mohs 6.5-7.",
+   "treatmentHonestyNote": "Some blue lace agate is dyed or enhanced to strengthen the blue; natural material is soft and pale."
+  },
+  {
+   "slug": "howlite",
+   "name": "Howlite",
+   "coolFact": "Howlite is very often dyed to imitate turquoise or lapis lazuli.",
+   "origins": [
+    "USA (California), Canada (Nova Scotia, where it was first described in 1868 and named after geologist Henry How), Turkey, Mexico."
+   ],
+   "mohsHardness": "Mohs about 3.5",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I am patient, calm and at ease.",
+   "shopDescription": "Soft white stone traced with fine grey veins, like moonlit marble. Howlite is the patient stone, a quiet pause between breath and reaction, and a gentle friend at bedtime.",
+   "traditionalMeaning": "In crystal practice howlite is a soothing, patient stone, said to slow down the mind, calm frustration and anger and invite restful sleep. It is often described as making space between a thought and a reaction.",
+   "howToUse": "Put it under the pillow or beside the bed. Hold it when you feel impatient or irritated. Use white howlite as a calm neutral bead in designs.",
+   "cleansingAndCare": "**Porous: avoid soaking, oils, perfume and dyes.** Wipe with a damp cloth. Soft, so store it separately from harder stones.",
+   "appearance": "Chalky to porcelain white with grey or black web-like veining, like marble. Opaque.",
+   "mineralFamily": "Calcium borosilicate hydroxide, a borate. Mohs about 3.5. Porous.",
+   "treatmentHonestyNote": "Howlite is very often dyed to imitate turquoise or lapis lazuli. Natural howlite is white; a dyed version is called \"dyed howlite\", never turquoise."
+  },
+  {
+   "slug": "rhodonite",
+   "name": "Rhodonite",
+   "coolFact": "A treasured decorative stone in imperial Russia.",
+   "origins": [
+    "Russia (the Ural Mountains, the classic source), Australia (Broken Hill), Sweden, Brazil, Peru, Madagascar, Canada, USA."
+   ],
+   "mohsHardness": "Mohs 5.5-6.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "I forgive, I heal, and I love myself through it.",
+   "shopDescription": "Rose pink veined with black, tender and strong at once. Rhodonite is the stone for a heart that is healing. Forgive, let go, and love yourself through it.",
+   "traditionalMeaning": "A treasured decorative stone in imperial Russia. In crystal practice rhodonite is the \"first aid\" stone for the heart: it is said to help heal emotional wounds, support forgiveness and keep a loving heart balanced with healthy self-respect.",
+   "howToUse": "Wear it during heartbreak or after conflict. Hold it during forgiveness journaling. Place it on the heart in meditation.",
+   "cleansingAndCare": "Quick rinse and dry. Avoid harsh chemicals. Store it away from harder stones.",
+   "appearance": "Rose pink to raspberry red, laced with black veins and patches of manganese oxide. Opaque (rare transparent crystals exist).",
+   "mineralFamily": "Manganese silicate, an inosilicate (a pyroxenoid). Mohs 5.5-6.5.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "rhodochrosite",
+   "name": "Rhodochrosite",
+   "coolFact": "Rose pink to raspberry and peachy pink, usually in wavy bands of lighter and darker pink (Argentine \"Inca rose\"), and rarely as deep red transparent crystals.",
+   "origins": [
+    "Argentina (Capillitas mine; it is the national stone of Argentina), USA (Colorado), Peru, South Africa, Mexico, China."
+   ],
+   "mohsHardness": "Mohs 3.5-4",
+   "beadNote": "Necklace or gentle wear",
+   "affirmation": "I open my heart to joy, and I let love in.",
+   "shopDescription": "Ribbons of rose and raspberry, like a sunrise layered in stone. Rhodochrosite is joy for the heart, a gentle reminder to love yourself and let love in.",
+   "traditionalMeaning": "In crystal practice rhodochrosite is a warm, joyful heart stone, said to awaken self-love, playfulness and compassion for your inner child and to help you receive love as well as give it.",
+   "howToUse": "Wear it close to the heart. Keep it with photos or letters from loved ones. Use it in self-love rituals and inner-child work.",
+   "cleansingAndCare": "**CAUTION: keep away from water, acids (vinegar, lemon), perfume, heat and ultrasonic cleaners.** Wipe with a soft dry cloth. Scratches easily, so store it on its own.",
+   "appearance": "Rose pink to raspberry and peachy pink, usually in wavy bands of lighter and darker pink (Argentine \"Inca rose\"), and rarely as deep red transparent crystals.",
+   "mineralFamily": "Manganese carbonate (MnCO3), a carbonate. Mohs 3.5-4, with perfect cleavage. Soft and acid-sensitive.",
+   "treatmentHonestyNote": null
+  },
+  {
+   "slug": "garnet",
+   "name": "Garnet",
+   "coolFact": "The name comes from the Latin granatum, pomegranate, because the crystals look like its seeds.",
+   "origins": [
+    "India, Sri Lanka, Madagascar, Tanzania, Mozambique, the Czech Republic (Bohemian pyrope), USA, Brazil."
+   ],
+   "mohsHardness": "Mohs 6.5-7.5",
+   "beadNote": "Fine for everyday beads",
+   "affirmation": "My heart burns steady, devoted and alive.",
+   "shopDescription": "Pomegranate-red and glowing like a slow ember. Garnet is the stone of devotion, deep, warm and lasting. A gift for the one you love, or for your own steady heart.",
+   "traditionalMeaning": "The name comes from the Latin granatum, pomegranate, because the crystals look like its seeds. It was worn as a travel talisman in medieval times. In crystal practice garnet is the stone of devotion, passion and lasting commitment, said to warm the heart, steady the root and renew energy and courage. It is the traditional January birthstone.",
+   "howToUse": "Wear it as a symbol of love and commitment (a classic gift between partners). Wear it on days that need stamina. Hold it on the root or heart in meditation.",
+   "cleansingAndCare": "Rinse and dry. Avoid sudden temperature changes.",
+   "appearance": "Deep wine red to brownish red (almandine and pyrope, the classic beads), glassy and transparent when faceted, dark in large beads. The garnet group also includes orange (spessartine), green (tsavorite, demantoid) and other colours.",
+   "mineralFamily": "The garnet group, closely related silicates (nesosilicates). Mohs 6.5-7.5 depending on the type. Durable.",
+   "treatmentHonestyNote": "Most garnet beads are natural, untreated almandine or pyrope. Glass imitations exist."
+  }
+ ]
+}
