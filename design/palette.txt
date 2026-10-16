@@ -1,0 +1,21 @@
+COSMOS CRYSTAL – GALAXY PALETTE (no yellow/gold anywhere)
+Background base      #070B1E  page background
+Nebula violet        #5B3FA8 @33% opacity  top-left glow
+Nebula blue          #2A5DA8 @27%  right glow
+Nebula magenta       #7A3F9A @20%  bottom glow
+Stars                #FFFFFF 40-65% / #CFE6FF  tiny dots
+Headings             #F2F4FA  H1/H2/H3, "Cosmos" wordmark, prices, active labels
+Body text            #C3C9DD  paragraphs, pill text default
+Muted                #8E97B5  nav, eyebrows, labels, inactive toggle
+Accent gradient      #9FD8FF -> #B9A6FF -> #E3A6F0  accent words ("feeling"), active toggle border, logo orbit ring, active states
+Wordmark "Crystal"   #9FD8FF -> #C9B4FF  italic gradient text
+Lavender label       #B9A6FF  eyebrows on portal pages, meanings, "FEELING" in caption, dashed lines
+Link                 #9FD8FF  "Details →", "View"
+Primary button       #9FD8FF -> #B9A6FF, text #0B1230, glow #9FD8FF @20%
+Active toggle        fill #0E1433, 1px gradient border, inner glow #B9A6FF @27%, text #FFFFFF
+Glass panels/pills   #0E1433 @80% / white 5-7% fill, border white 11-13%
+Centre glow          #FFFFFF -> #DCEFFF -> #9FD8FF @40% -> #B9A6FF @13%
+Selected stone ring  #9FD8FF outline; necklace ring dashed #9FD8FF
+Logo mark            4-point crystal star stroked #F2F4FA, cross lines + orbit in accent gradient, satellite dot #E3A6F0, glow #9FD8FF->#B9A6FF
+Feeling dots (kept)  Calm #7FB8FF, Love #F29BC4, Focus #B9A6FF, Energy #FF9E6B, Protection #6E7FA8, Abundance #6FD19A, Clarity #E8F0FF, Intuition #A678E0
+Fonts                Cormorant Garamond (headings, wordmark), Inter (UI)
